@@ -17,11 +17,15 @@
  <body>
   <div id="main" class="wrapper" style="width: 80%; max-width: 800px;"></div>
   <script type="text/javascript">
-   var mdContent = readTextFile("course_description.md"),
-       htmlContent = markdown.toHTML(mdContent,'Maruku'),
-       mdView = document.getElementById('main');
-       footer = '<p><strong>Course Resources:</strong></p><ul><li><a href="syllabus.html"><em>Full Syllabus and Course Schedule</em></a></li><li><a href=""><em>Blackboard Site</em></a></li></ul>'
-   mdView.innerHTML = htmlContent + footer;       
+    var all_markdown = [
+      "course_description.md",
+      "syllabus.md",
+      "classboilerplate.md",
+      "gegboilerplate.md"
+    ];
+    document.getElementById('main').innerHTML = all_markdown.map(
+      (file) => { return markdown.toHTML(readTextFile(file),'Maruku'); }
+    ).join(' ');
   </script>
  </body>
  

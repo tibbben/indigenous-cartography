@@ -18,11 +18,8 @@ Lesson 2
 
 ---
 
-> Readings (required)
+Notes:  
 
- - TBD
+-   Use Waldseemüller’s 1507 map - naming of America instead of Turtle Island
 
-> Readings (highly recomended)
-
- - TBD
 
