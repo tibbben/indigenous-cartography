@@ -1,4 +1,4 @@
-## GEG 390 & GEG 625 / APY <number> / INS 301
+## GEG 390 & GEG 625 / APY 418 / INS 301
 ## [Indigenous Cartographies and Cartographies of the Indigenous (3 units)](https://github.com/tibbben/indigenous-cartography)  
 
 ### Instructor:  

@@ -39,7 +39,7 @@ during the quarter.
 
 > Introduction to the course, the instructor, and to each other as students. For those who would like to, share out students’ research interests in the context of Indigeneity or how students define Indigeneity.
 
--   Introduce interpretations, definitions, and uses of Indigenous labels and concepts.
+-   Introduce interpretations, definitions, and uses of Indigenous labels and concepts
 -   Discuss Indigenous geography as the Indigenous engagement with space: Indigenous spatial and relational knowledge systems, storytelling, and belonging to place
 
 > Required Reading:
@@ -70,11 +70,12 @@ during the quarter.
 > Required Reading:
 
 -   Lucchesi, Annita Hetoevėhotohke'e. (2018). “Indians Don't Make Maps”: Indigenous Cartographic Traditions and Innovations. *American Indian Culture and Research Journal*, 42(3), 11-26. doi: 10.17953/aicrj.42.3.lucchesi
--   Finney, Ben. (1998). Nautical Cartography and Traditional Navigation in Oceania. In J. B. Harley & D. Woodward (Eds.), Cartography in the Traditional African, American, Arctic, Australian, and Pacific Societies (Vol. 2 (3), pp. 443 - 492). Chicago: University of Chicago Press.
 -   Pearce, Margaret, & Louis, Renee. (2008). Mapping Indigenous Depth of Place. *American Indian Culture and Research Journal*, 32(3), 107-126. doi: 10.17953/aicr.32.3.n7g22w816486567j
+-   Aporta, Claudia. (2014). Inuit Oral Maps: Describing the Land with Words. In D. G. Cole & I. Sutton (Eds.), *Mapping native America : cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 111-121). North Charleston: CreateSpace Independent Publishing Platform.
 
 > Suggested Reading
 
+-   Finney, Ben. (1998). Nautical Cartography and Traditional Navigation in Oceania. In J. B. Harley & D. Woodward (Eds.), *Cartography in the Traditional African, American, Arctic, Australian, and Pacific Societies* (Vol. 2 (3), pp. 443 - 492). Chicago: University of Chicago Press.
 -   Short, John Rennie. (2009). *Cartographic Encounters : Indigenous Peoples and the Exploration of the New World*: Reaktion Books Ltd. 
 -   Chapter 1: "An Overview of Native American Maps" (pp 7-36) in Warhus, Mark (1997). *Another America: Native American Maps and the History of Our Land*. New York: St. Martin’s Press.
 
@@ -117,6 +118,7 @@ during the quarter.
 -   Part II. Land, Articles 13-19 from ILO. (1989). *C169 - Indigenous and Tribal Peoples Convention.* 1989.  Geneva.
 -   Articles, 12, 13, 25-30 from UN. (2007). *Declaration on the Rights of Indigenous Peoples.*  New York: United Nations.
 -   Selections from Rose, Carol M. (1985). "Possession as the Origin of Property." University of Chicago Law Review, 52. 
+-   Fox, Jeff. “Mapping the Commons: The Social Context of Spatial Information Technologies.” *Common Property Resource Digest* 45 (1998): 1–4.
 
 > Suggested Reading:
 
@@ -126,9 +128,29 @@ during the quarter.
 
 > [slide deck](slides/slides04.html) [...](lessons/lesson04.html)	
 
-#### *Week 5 (Feb. 14 - Feb. 18): Indigenous Cartographies and Colonialism I* 
+#### *Week 5 (Feb. 14 - Feb. 18): Indigenous Cartographies and Conquest* 
 
-> Explore the historical record of mapping Indigenous lands until the early 20th century with a geogeraphical focus in the United States.
+> Explore historical record of Indigenous participation in cartographic practice in the conquest of the New World. This week will include a visit to the University of Miami Libraries to engage with primary materials held by the University of Miami Libraries Special Collections.
+
+-   Maps made for the Spanish viceroyalty
+-   Maps made for local property claims and dispute resolution
+
+> Required Reading:
+
+-   Selections from Hidalgo, Alex. (2019). *Trail of Footprints: A History of Indigenous Maps from Viceregal Mexico*. Austin: University of Texas Press.
+-   Selections from Mundy, Barbara E. (1996). *The Mapping of New Spain*. Chicago: University of Chicago Press.
+
+> Suggested Reading:
+
+-   Guaman Poma, Phelipe. (1615). *Nueva coronica y buen gobierno*. Retrieved from http://www.kb.dk/permalink/2006/poma/titlepage/es/text/?open=id3083608 
+
+> Assignment \#2: TBD
+
+> [slide deck](slides/slides05.html) [...](lessons/lesson05.html)	
+
+#### *Week 6 (Feb. 21 - Feb 25): Indigenous Cartographies and Colonialism I* \[ TURN IN ASSIGNMENT \#2 \]  
+
+> Explore the historical record of mapping Indigenous lands until the early 20th century with a geographical focus in the United States.
 
 -   Maps made for colonists
 -   Maps made for explorers
@@ -143,13 +165,13 @@ during the quarter.
 
 > Suggested Reading:
 
--   TBD
+-   Blomley, Nicholas. (2003). Law, Property, and the Geography of Violence: The Frontier, the Survey, and the Grid. *Annals of the Association of American Geographers*, 93(1), 121-141. 
 
-> Assignment \#2: TBD
+> Midterm Project Assignment: TBD
 
-> [slide deck](slides/slides05.html) [...](lessons/lesson05.html)	
+> [slide deck](slides/slides06.html) [...](lessons/lesson06.html)	
 
-#### *Week 6 (Feb. 21 - Feb 25): Indigenous Cartographies and Colonialism II* \[ TURN IN ASSIGNMENT \#2 \]  
+#### *Week 7 (Feb. 28 - Mar. 4): Indigenous Cartographies and Colonialism II*  
 
 > Explore the contemporary mapping of indigenous lands as a legacy of colonial activity with a geographical focus in the United States.
 
@@ -167,42 +189,25 @@ during the quarter.
 > Suggested Reading:
 
 -   Lone Fight, Lisa. (2012). Indigenizing, contextualizing, and applying GIS technology and spatial analysis to meet the needs of Native students and communities: a view from the sky. In Taylor, Anne, Gadsen, David, Kerski, Joseph J., & Guglielmo, Heather (Eds.). (2012). Tribal GIS: Supporting Native American Decision Making. Redlands, CA: ESRI Press.
-
-> Midterm Project Assignment: TBD
-
-> [slide deck](slides/slides06.html) [...](lessons/lesson06.html)	
-
-#### *Week 7 (Feb. 28 - Mar. 4): Indigenous Cartographies and Conquest I*  
-
-> Explore historical record of Indigenous participation in cartographic practice in the conquest of the New World. This week will include a visit to the University of Miami Libraries to engage with primary materials held by the University of Miami Libraries Special Collections.
-
--   Maps made for the Spanish viceroyalty
--   Maps made for local property claims and dispute resolution
-
-> Required Reading:
-
--   Selections from Hidalgo, Alex. (2019). *Trail of Footprints: A History of Indigenous Maps from Viceregal Mexico*. Austin: University of Texas Press.
--   Selections from Mundy, Barbara E. (1996). *The Mapping of New Spain*. Chicago: University of Chicago Press.
-
-> Suggested Reading:
-
--   
 	
 > [slide deck](slides/slides07.html) [...](lessons/lesson07.html)	
 
-#### *Week 8 (Mar. 7 - Mar. 11): Indigenous Cartographies and Conquest II* \[ TURN IN MIDTERM PROJECT \]  
+#### *Week 8 (Mar. 7 - Mar. 11): Indigenous Cartographies and Colonialism III* \[ TURN IN MIDTERM PROJECT \]  
 
-> Explore the contemporary legacy of Indigenous cartographies in the conquest of the New World. This week will include a visit to the Lowe Art Museum to engage with primary materials held by the Lowe Art Museum.
+> Explore historical and contemporary interactions between colonial activity and Indigenous mapping with a global view.
 
--   TBD
+-   Legacies of disposession
+-   Contemporary colonialism
 
 > Required Reading:
 
--   TBD
+-   Brody, Hugh. (2021). What were we mapping? From the Inuit Land Use and Occupancy Project to the Southern Kalahari. In U. Dieckmann (Ed.), *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa* (pp. 69-92). Bielefeld: transcript Verlag.
+-   Chapter 1 from Bryan, Joe, & Wood, Denis. (2015). *Weaponizing Maps*: Guilford Press.
+-   Cloud, John. (2014). The Tlingit Map of 1869: A Masterwork of Indigenous Cartography. In D. G. Cole & I. Sutton (Eds.), *Mapping native America : cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 75-92). North Charleston: CreateSpace Independent Publishing Platform.
 
 > Suggested Reading:
 
--   TBD
+-   Boone, Elizabeth Hill. (1998). Maps of Territory, History, and Community in Aztec Mexico. In G. M. Lewis (Ed.), *Cartographic Encounters: Perspectives on Native America Mapmaking and Map Use*. Chicago: University of Chicago Press.
 
 > [slide deck](slides/slides08.html) [...](lessons/lesson08.html)	
 
@@ -214,15 +219,18 @@ during the quarter.
 
 -  Circular time and fluid boundaries
 -  Ontologies: Indigenous, relartional, and Cartesian
+-  GIS, education, and empowerment
 
 > Required Reading
 
 -   Rundstrom, Robert A. (1991). Mapping, Postmodernism, Indigenous People And The Changing Direction Of North American Cartography. *Cartographica*, 28(2), 1-12. doi: 10.3138/5j46-51t2-7m42-316g
 -   Mackenzie, Kierin, Pirker, John, & Reitsma, Femke. (2020). Towards a SpatioTemporal Data Model for Traditional Ecological Knowledge/Indigenous Knowledge. *Cartographica*, 55(1), 29-41. doi: 10.3138/cart-2017-0027
+-   Kerski, Joseph J. (2006). Earth Vision: Understanding the Earth with Geographic Information Systems. *Winds fo Change*, 21(3), 12-15. 
 
 > Suggested Reading:
 
--   
+-   Hirt, Irène. (2012). Mapping Dreams/Dreaming Maps: Bridging Indigenous and Western Geographical Knowledge. *Cartographica: The International Journal for Geographic Information and Geovisualization*, 47(2), 105-120. doi: 10.3138/carto.47.2.105
+-   Roth, Robin. “The Challenges of Mapping Complex Indigenous Spatiality: From Abstract Space to Dwelling Space.” *Cultural Geographies* 16.2 (2009): 207–227.
 
 > Assignment \#3: TBD
 
@@ -238,13 +246,13 @@ during the quarter.
 > Required Reading:
 
 -   Orlove, Benjamin S. (1991). Mapping Reeds and Reading Maps: The Politics of Representation in Lake Titicaca. *American Ethnologist*, 18(1), 3-38. 
--   "Introduction" (pp 9-28) in Dieckmann, Ute. (2021). *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa.* Bielefeld: transcript Verlag.
--   Chapin, M., Lamb, Z., & Threlkeld, B. (2005). Mapping indigenous lands. *Annual Review of Anthropology*, 34, 619-638.
+-   "Introduction" (pp 9-28) in Dieckmann, Ute (Ed.). (2021). *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa*. Bielefeld: transcript Verlag.
+-   Smith, Laura. (2008). Indigenous Geography, GIS, and Land-Use Planning on the Bois Fore Reservation. *American Indian Culture and Research Journal*, 32(3), 139-151. 
 
 > Suggested Reading:
 
--   
--   Norris, Timothy. (2018). Participatory Mapping. In J. Deupi (Ed.), Antillean Visions; or, Maps and the Making of the Caribbean. Miami: Lowe Art Museum.
+-   Alcorn, Janis B. “Keys to Unleash Mapping’s Good Magic.” *PLA Notes* 39.2 (2000): 10–13.
+-   Norris, Timothy. (2017). Public Participation GIS, Participatory GIS and Participatory Mapping. In B. Warf (Ed.), *Oxford Bibliographies in Geography.* New York: Oxford University Press.
 
 > [slide deck](slides/slides10.html) [...](lessons/lesson10.html)	
 
@@ -266,7 +274,7 @@ during the quarter.
 
 -   Flavelle, Alix. (1994). Community-Based Mapping in Southeast Asia. *Cultural Survival Quarterly*, 18(4). 
 -   Freire, Paulo. (1970). *Pedagogy of the Oppressed.* New York: Continuum.
--   Norris, Timothy. (2017). Public Participation GIS, Participatory GIS and Participatory Mapping. In B. Warf (Ed.), *Oxford Bibliographies in Geography.* New York: Oxford University Press.
+-   Norris, Timothy. (2018). Participatory Mapping. In J. Deupi (Ed.), Antillean Visions; or, Maps and the Making of the Caribbean. Miami: Lowe Art Museum.
 
 > Assignment \#4: 
 
@@ -278,7 +286,9 @@ during the quarter.
 
 > Explore how mapmakers have tested whether "The master's tools can be used to bring down the master's house"
 
--   TBD
+-   counter mapping
+-   maps and defense of territory
+-   legitemacy
 
 > Required Reading:
 
@@ -288,8 +298,8 @@ during the quarter.
 
 > Suggested Reading:
 
--   Bryan, Joe, & Wood, Denis. (2015). Weaponizing Maps: Guilford Press.
--   Wainwright, Joel, & Bryan, Joe. (2009). Cartography, territory, property: postcolonial reflections on indigenous counter-mapping in Nicaragua and Belize. Cultural Geographies 16(2), 153-178. 
+-   Bryan, Joe, & Wood, Denis. (2015). *Weaponizing Maps*. Guilford Press.
+-   Wainwright, Joel, & Bryan, Joe. (2009). Cartography, territory, property: postcolonial reflections on indigenous counter-mapping in Nicaragua and Belize. *Cultural Geographies* 16(2), 153-178. 
 
 > Assignment \#5: TBD
 
@@ -297,28 +307,41 @@ during the quarter.
 
 #### *Week 13 (Apr. 18 - Apr. 22): Indigenous mapping and Natural Resource Management*  
 
-> TBD
+> Explore how Indigenous groups have articulated rights over natrual resources through the use of maps or have lost territories due to natural resource mapping and claims.
 
--   TBD
+-   Rights to nature
+-   Informed consent
 
-> This is a hands on lab week
+> Required Reading:
+
+-   Radcliffe, Sarah A. (2020). Geography and indigeneity III: Co-articulation of colonialism and capitalism in indigeneity’s economies. Progress in Human Geography, 44(2), 374-388. doi: 10.1177/0309132519827387
+-   Norris, Timothy. (2014). Bridging the Great Divide: state, civil society, and 'participatory' conservation mapping in a resource extraction zone. *Applied Geography*, 54(2014), 262-274. doi: http://dx.doi.org/10.1016/j.apgeog.2014.05.016
+-   Sletto, Bjorn, Barry, Deborah, Bryan, Joe, Hale, Charles, & Torrado, Marla. (2011). Social Mapping and the Struggles for Local Rights to Territroy and Resources: *The Latin American Experience*. Washington D.C.: Rights and Resources
+
+> Suggested Reading:
+
+-   Smith, Richard. (2005). Can David and Goliath Have a Happy Marriage? The Machiguenga People and the Camisea Gas Project in the Peruvian Amazon. In J. P. Brosius, A. L. Tsing & C. Zerner (Eds.), *Communities and Conservation* (pp. 231-256). Lanham MD: Alta Mira Press.
+-   Stocks, Anthony. (2003). Mapping Dreams in Nicaragua's Bosawas Reserve. *Human Organization*, 62(4), 344-356. 
 
 > [slide deck](slides/slides13.html) [...](lessons/lesson13.html)	
 
 #### *Week 14 (Apr. 25 - Apr. 29): Indigenous Mapping and Conservation* \[ TURN IN FINAL PROJECT \]  
 
-> TBD
+> Introduce how conservation efforts from global to local cross paths with Indigenous groups and Indigenous rights through mapping efforts. 
 
--  TBD
+-   'Shared' interests
+-   BINGOs
+-   Conservation, tourism, and identity
 
 > Required Reading:
 
--   Rocheleau, Dianne. (2005). Maps as Power Tools: locating communities in space or situating people and ecologies in place. In J. P. Brosius, A. L. Tsing & C. Zerner (Eds.), Communities and Conservation (pp. 327-362). Lanham MD: Alta Mira Press.
--   Norris, Timothy. (2014). Bridging the Great Divide: state, civil society, and 'participatory' conservation mapping in a resource extraction zone. *Applied Geography*, 54(2014), 262-274. doi: http://dx.doi.org/10.1016/j.apgeog.2014.05.016
+-   Rocheleau, Dianne. (2005). Maps as Power Tools: locating communities in space or situating people and ecologies in place. In J. P. Brosius, A. L. Tsing & C. Zerner (Eds.), *Communities and Conservation* (pp. 327-362). Lanham MD: Alta Mira Press.
+-   Sundberg, J. (1998). NGO landscapes in the Maya biosphere reserve, Guatemala. *The Geographical Review*, 88 (3), 388-390. 
+-   Goldman, Mara. (2021). Mapping multiple in Maasailand: Ontological openings for knowing and managing nature otherwise. In U. Dieckmann (Ed.), *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa* (pp. 193-222). Bielefeld: transcript Verlag.
 
 > Suggested Reading:
 
--  TBD
+-   Edney, Matthew H. (2012). Field/Map. In K. Nielsen, M. Harbsmeier & C. Ries (Eds.), *Scientists and Scholars in the Field* (pp. 431-456). Århus: Aarhus University Press.
 
 > [slide deck](slides/slides14.html) [...](lessons/lesson14.html)	
 
