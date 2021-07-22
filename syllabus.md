@@ -1,46 +1,54 @@
-### Methods of Instruction:  
-Lecture-discussion, demonstration, and practical out-of-class and in-class assignments. Students are expected to participate in the lectures, discussions, and in-class projects. There is no pre-requisite for knowledge of geographic information systems (GIS) or cartography, but students are expected to perform self-directed research based on primary and secondary sources of information.
-
 ### Evaluation of Student Performance:  
 Students will be assigned a letter grade (A-F) based on the following:
 
 | Evaluated work | percentage / points |  
 |:--- |:--- |  
-| Homework Assignments | 20% / 50 pts |  
 | Class Participation | 10% / 25 pts |  
-| Midterm Project | 30% / 75 pts |  
-| Final Project | 40% / 100 pts |  
+| Homework Assignments #1, #2, and #3 | 20% / 50 pts |  
+| Midterm | 20% / 50 pts |  
+| Final Project | 30% / 75 pts |  
+| Final | 20% / 50 pts |
 | Total | 100% / 250 pts |  
 
-### Assignments  
-There will be several homework assignments throughout the semester. This will include reading and writing assignments, online tutorial assignments, and cartography/GIS assignments. Late assignments will not be accepted; make-ups are only considered in the case of a documented medical emergency.
-
 ### Class Participation  
-Engagement in class activities through speaking, contributing comments to the class web-page, or participating in group projects is an important aspect of this class.
+Engagement in class activities such as discussions of assigned reading and class material and/or presentations of assignments is an important aspect of the learning in this course. This will include speaking in front of the class and holding respectful conversations with the instructor and other class members during meeting times.
 
-### Midterm Project  
-Choose one Tribe or Indigenous group and research their history from the perspective of maps and map making. Almost every indigenous group will have either been mapped by others, may have directly participated in cartographic enterprises, or may be actively engaged with creating and using maps for governance or other purposes. Present your research in a written paper between 1000 and 1500 words. You will also be expected to give a short presentation (5 minutes maximum) in class that showcases your research and the Tribes story.
+### Assignments  
+There will be reading assignments for each class as per the schedule below; reading assignments are to be completed before class meetings and students should be prepared to engage in discussions of the material assigned. Note that suggested reading is provided both as a means for students to improve their understanding of class material and as potential resources for the assignments. Throughout the course there will be four major assignments that build into a final class project (the fourth assignment). Each of the assignments will be related to one tribe or Indigenous group that the student identifies in the first assignment and build into the final class project. All bibliographies will be in the APA 7th Edition format. Late assignments will not be accepted; make-ups are only considered in the case of a documented medical emergency.
 
-### Final Project  
-Choose one Tribe or Indigenous group and tell a story about them with one or more maps.  Each student project must be vetted with the instructor in order to be considered as the final graded project.
+### Prompt for Assignment #1 (due week 3)
+Identify a Tribe or Indigenous group that you are interested in. In a short justification for your choice (of no less than 700 words and no more than 1000 words) give a brief introduction to the tribe or Indigenous group that includes notes on their historical and contemporary experience of their geography, beliefs or ways of knowing, lifestyle or livelihood, political practices, and anything else considered important. Include a reflection on your positionality as a student writing about the tribe or Indigenous group. What interests you about this particular group? Do you have previous knowledge? Do you have connections? What is the purpose of your choice? Is there some particular aspect that you would like to learn more about? Are there any primary or secondary sources you are interested in? All sources of information should be identified in a bibliography (not included in the word count).
 
-project ideas:  
+### Prompt for Assignment #2 (due week 7)
+With the Tribe or Indigenous group identified in Assignment #1 research their history from the perspective of maps and map making. Almost every indigenous group will have either been mapped by others, may have directly participated in cartographic enterprises, or may be actively engaged with creating and using maps for governance or other purposes. References from the syllabus for this course can be used as secondary sources; at least two references not on the syllabus to either primary or secondary sources must be cited. Present your research in a written paper between a minimum of 1000 and a maximum of 1500 words, references not included. 
 
-- research the cartographic history of a (North American) Tribe / Indigenous Group and present story map  
-- research natural resource conflict between Indigenous Group / Tribe and role of maps in the conflict  
-- research cartographic technique for making maps inclusive of indigenous ways of knowing  
+### Prompt for Assignment #3 (due week 10)
+Using the materials from assignments #1 and #2 create a ten-minute (maximum) presentation about the identified tribe or Indigenous group. The presentation format will be in Microsoft PowerPoint, Apple KeyNote, or a similar slide-based presentation platform. The presentation will draw from the material in Assignment #1 and in addition will use at least three references from any of the assigned readings in the syllabus (for projects focused on contemporary Indigenous cartography reading ahead will be allowed with instructor approval).
+
+### Prompt for Assignment #4: Final Class Project (due week 14)
+With the Tribe or Indigenous group identified in earlier assignments tell a story about them with one or more maps. Students will use online platforms such as the ESRI ArcGIS StoryMap platform or KnightLabs Storymap.js or can choose to present one or more printed maps in the context of a short essay. The presentation will include elements drawn from prior assignments Each student project must be vetted with the instructor in order to be considered as the final graded project.
+
+Example project ideas:  
+
+- Research the cartographic history of a (North American) Tribe / Indigenous Group and present story map  
+- Research natural resource conflict between Indigenous Group / Tribe and role of maps in the conflict  
+- Research cartographic technique for making maps inclusive of indigenous ways of knowing  
+
+### Midterm and Final Exam
+
+Both the midterm and the final exam will include short answer and essay sections. The midterm will be based on reading and other assignments up until week 7 and the final will be based on reading and other assignments from week 8 to week 14 (not comprehensive).
+
+---
 
 ### Weekly Schedule:  
-All topics/dates/assignments are subject to revision/change based on
-instructor decisions and any other *force majeur* that may take place
-during the quarter.
+All topics/dates/assignments are subject to revision/change based on instructor decisions and any other *force majeur* that may take place during the quarter.
 
 #### *Week 1 (Jan. 18 - Jan. 21): Course Introduction and Overview: The Indigenous Experience*  
 
 > Introduction to the course, the instructor, and to each other as students. For those who would like to, share out students’ research interests in the context of Indigeneity or how students define Indigeneity.
 
--   Introduce interpretations, definitions, and uses of Indigenous labels and concepts
--   Discuss Indigenous geography as the Indigenous engagement with space: Indigenous spatial and relational knowledge systems, storytelling, and belonging to place
+-   Indigenous labels and concepts
+-   Indigenous spatial and relational knowledge systems
 
 > Required Reading:
 
@@ -71,12 +79,12 @@ during the quarter.
 
 -   Lucchesi, Annita Hetoevėhotohke'e. (2018). “Indians Don't Make Maps”: Indigenous Cartographic Traditions and Innovations. *American Indian Culture and Research Journal*, 42(3), 11-26. doi: 10.17953/aicrj.42.3.lucchesi
 -   Pearce, Margaret, & Louis, Renee. (2008). Mapping Indigenous Depth of Place. *American Indian Culture and Research Journal*, 32(3), 107-126. doi: 10.17953/aicr.32.3.n7g22w816486567j
--   Aporta, Claudia. (2014). Inuit Oral Maps: Describing the Land with Words. In D. G. Cole & I. Sutton (Eds.), *Mapping native America : cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 111-121). North Charleston: CreateSpace Independent Publishing Platform.
+-   Aporta, Claudia. (2014). Inuit Oral Maps: Describing the Land with Words. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 111-121). North Charleston: CreateSpace Independent Publishing Platform.
 
 > Suggested Reading
 
 -   Finney, Ben. (1998). Nautical Cartography and Traditional Navigation in Oceania. In J. B. Harley & D. Woodward (Eds.), *Cartography in the Traditional African, American, Arctic, Australian, and Pacific Societies* (Vol. 2 (3), pp. 443 - 492). Chicago: University of Chicago Press.
--   Short, John Rennie. (2009). *Cartographic Encounters : Indigenous Peoples and the Exploration of the New World*: Reaktion Books Ltd. 
+-   Short, John Rennie. (2009). *Cartographic Encounters: Indigenous Peoples and the Exploration of the New World*: Reaktion Books Ltd. 
 -   Chapter 1: "An Overview of Native American Maps" (pp 7-36) in Warhus, Mark (1997). *Another America: Native American Maps and the History of Our Land*. New York: St. Martin’s Press.
 
 > [slide deck](slides/slides02.html) [...](lessons/lesson02.html)
@@ -96,18 +104,16 @@ during the quarter.
 
 > Suggested Reading:
 
--   Blaut, James M. (1993). *The Colonizer’s Model of the World: Geographical Diffucionism and Eurocentric History* New York: Guilford Press.
+-   Blaut, James M. (1993). *The Colonizer’s Model of the World: Geographical Diffusionism and Eurocentric History* New York: Guilford Press.
 -   Kain, Roger J. P., & Baigent, Elizabeth. (1992). *The Cadastral Map in the Service of the State: A History of Property Mapping.* Chicago: University of Chicago Press.
 -   Crosthwait, H. L. (1924). The Survey of India. *Journal of the Royal Society of Arts*, 72(3716), 194-206. 
 -   Sobel, Dava. (1995). *Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time.* New York: Walker and Company.
-
-> Assignment \#1: Identify the Indigenous group or Tribe that you will work with. Write a brief justification between 200-300 words for your choice. What interests you about this particular group? Do you have previous knowledge? Do you have connections? What is the purpose of your choice? Is their some particular aspect that you would like to learn more about? Are there any primary or secondary sources you are interested in?
 
 > [slide deck](slides/slides03.html) [...](lessons/lesson03.html)	
 
 #### *Week 4 (Feb. 7 - Feb. 11): Indigenous Rights, Property, and Maps*  
 
-> Examine how maps, GIS, and property come together as tools of governance. 
+> Examine how maps, GIS, and property come together as tools of governance. This week will include a visit to the University of Miami Libraries to engage with primary materials held by the University of Miami Libraries Special Collections.
 
 -   Origins of Property in Land
 -   Access and Enclosure
@@ -130,7 +136,7 @@ during the quarter.
 
 #### *Week 5 (Feb. 14 - Feb. 18): Indigenous Cartographies and Conquest* 
 
-> Explore historical record of Indigenous participation in cartographic practice in the conquest of the New World. This week will include a visit to the University of Miami Libraries to engage with primary materials held by the University of Miami Libraries Special Collections.
+> Explore historical record of Indigenous participation in cartographic practice in the conquest of the New World.  This week will include a visit to the University of Miami Lowe Art Museum to engage with primary materials.
 
 -   Maps made for the Spanish viceroyalty
 -   Maps made for local property claims and dispute resolution
@@ -148,7 +154,7 @@ during the quarter.
 
 > [slide deck](slides/slides05.html) [...](lessons/lesson05.html)	
 
-#### *Week 6 (Feb. 21 - Feb 25): Indigenous Cartographies and Colonialism I* \[ TURN IN ASSIGNMENT \#2 \]  
+#### *Week 6 (Feb. 21 - Feb 25): Indigenous Cartographies and Colonialism I*
 
 > Explore the historical record of mapping Indigenous lands until the early 20th century with a geographical focus in the United States.
 
@@ -160,54 +166,48 @@ during the quarter.
 
 -   Chapter 1: "An Overview of Native American Maps" (pp. 37-52) in Warhus, Mark (1997). *Another America: Native American Maps and the History of Our Land*. New York: St. Martin’s Press.
 -   Several selections (TBD) from Chapter 2: "American Indian Maps of the Colonial Era" (pp 57-98) in Warhus, Mark (1997). *Another America: Native American Maps and the History of Our Land*. New York: St. Martin’s Press.
--   De Vorsey, Jr, Louis. (2014). The Le Moyne 1591 Map. In D. G. Cole & I. Sutton (Eds.), *Mapping native America : cartographic interactions between indigenous peoples, government, and academia* (Vol. 1, pp. 127-133). North Charleston: CreateSpace Independent Publishing Platform.
--   De Vorsey, Jr, Louis. (2014). The Southern Indian Boundary Line. In D. G. Cole & I. Sutton (Eds.), *Mapping native America : cartographic interactions between indigenous peoples, government, and academia* (Vol. 1, pp. 134-141). North Charleston: CreateSpace Independent Publishing Platform.
+-   De Vorsey, Jr, Louis. (2014). The Le Moyne 1591 Map. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia* (Vol. 1, pp. 127-133). North Charleston: CreateSpace Independent Publishing Platform.
+-   De Vorsey, Jr, Louis. (2014). The Southern Indian Boundary Line. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia* (Vol. 1, pp. 134-141). North Charleston: CreateSpace Independent Publishing Platform.
 
 > Suggested Reading:
 
--   Blomley, Nicholas. (2003). Law, Property, and the Geography of Violence: The Frontier, the Survey, and the Grid. *Annals of the Association of American Geographers*, 93(1), 121-141. 
+-   Blomley, Nicholas. (2003). Law, Property, and the Geography of Violence: The Frontier, the Survey, and the Grid. *Annals of the Association of American Geographers*, 93(1), 121-141.
+-   Cloud, John. (2014). The Tlingit Map of 1869: A Masterwork of Indigenous Cartography. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 75-92). North Charleston: CreateSpace Independent Publishing Platform.
+-   Lone Fight, Lisa. (2012). Indigenizing, contextualizing, and applying GIS technology and spatial analysis to meet the needs of Native students and communities: a view from the sky. In Taylor, Anne, Gadsen, David, Kerski, Joseph J., & Guglielmo, Heather (Eds.). (2012). Tribal GIS: Supporting Native American Decision Making. Redlands, CA: ESRI Press.
 
 > Midterm Project Assignment: TBD
 
 > [slide deck](slides/slides06.html) [...](lessons/lesson06.html)	
 
-#### *Week 7 (Feb. 28 - Mar. 4): Indigenous Cartographies and Colonialism II*  
+#### *Week 7 (Feb. 28 - Mar. 4): Indigenous Cartographies and Colonialism II* \[ TURN IN ASSIGNMENT \#2 \]  
 
-> Explore the contemporary mapping of indigenous lands as a legacy of colonial activity with a geographical focus in the United States.
+> Explore the contemporary mapping of indigenous lands as a legacy of colonial activity with a geographical focus in the United States. Possible guest speaker from Seminole or Miccosukee Tribe (or field trip).
 
 -   Meaning in maps and storytelling with maps
 -   Synergy between Indigenous and Cartesian knowledge systems
--   Seminole use of GIS
+-   Seminole/or and Miccosukee use of GIS
 
 > Required Reading:
 
 -   Chapter 3: Preserving tribal culture and history (pp 25-48) in Taylor, Anne, Gadsen, David, Kerski, Joseph J., & Guglielmo, Heather (Eds.). (2012). *Tribal GIS: Supporting Native American Decision Making*. Redlands, CA: ESRI Press.
--   Sutton, Imre. (2014). Indian Country: Three Geographic Views. In D. G. Cole & I. Sutton (Eds.), *Mapping native America : cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 323-328). North Charleston: CreateSpace Independent Publishing Platform.
--   Kuwanwisiwma, Leight J., & Fergesun, T. J. (2014). Hopitutskwa: The Meaning and Power of Maps. In D. G. Cole & I. Sutton (Eds.), *Mapping native America : cartographic interactions between indigenous peoples, government, and academia (Vol. 3, pp. 132-147). North Charleston: CreateSpace Independent Publishing Platform.
+-   Sutton, Imre. (2014). Indian Country: Three Geographic Views. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 323-328). North Charleston: CreateSpace Independent Publishing Platform.
+-   Kuwanwisiwma, Leight J., & Fergesun, T. J. (2014). Hopitutskwa: The Meaning and Power of Maps. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia (Vol. 3, pp. 132-147). North Charleston: CreateSpace Independent Publishing Platform.
 -   Chapter 6: Contemporary Native American Maps (pp 208-229) in Warhus, Mark. (1997). *Another America: Native American Maps and the History of Our Land.* New York: St. Martin’s Press.
 
 > Suggested Reading:
 
--   Lone Fight, Lisa. (2012). Indigenizing, contextualizing, and applying GIS technology and spatial analysis to meet the needs of Native students and communities: a view from the sky. In Taylor, Anne, Gadsen, David, Kerski, Joseph J., & Guglielmo, Heather (Eds.). (2012). Tribal GIS: Supporting Native American Decision Making. Redlands, CA: ESRI Press.
+-   Brody, Hugh. (2021). What were we mapping? From the Inuit Land Use and Occupancy Project to the Southern Kalahari. In U. Dieckmann (Ed.), *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa* (pp. 69-92). Bielefeld: transcript Verlag.
+-   Chapter 1 from Bryan, Joe, & Wood, Denis. (2015). *Weaponizing Maps*: Guilford Press.
+
 	
 > [slide deck](slides/slides07.html) [...](lessons/lesson07.html)	
 
-#### *Week 8 (Mar. 7 - Mar. 11): Indigenous Cartographies and Colonialism III* \[ TURN IN MIDTERM PROJECT \]  
+#### *Week 8 (Mar. 7 - Mar. 11): Creating Maps*   [ MIDTERM  EXAM ]
 
-> Explore historical and contemporary interactions between colonial activity and Indigenous mapping with a global view.
+> Midterm exam and a practical introduction to creating online maps using ESRI ArcGIS StoryMaps and Knight Labs storymap.js, and to standard tools such as ArcGIS Pro and QGIS for creating printed maps.
 
--   Legacies of disposession
--   Contemporary colonialism
-
-> Required Reading:
-
--   Brody, Hugh. (2021). What were we mapping? From the Inuit Land Use and Occupancy Project to the Southern Kalahari. In U. Dieckmann (Ed.), *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa* (pp. 69-92). Bielefeld: transcript Verlag.
--   Chapter 1 from Bryan, Joe, & Wood, Denis. (2015). *Weaponizing Maps*: Guilford Press.
--   Cloud, John. (2014). The Tlingit Map of 1869: A Masterwork of Indigenous Cartography. In D. G. Cole & I. Sutton (Eds.), *Mapping native America : cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 75-92). North Charleston: CreateSpace Independent Publishing Platform.
-
-> Suggested Reading:
-
--   Boone, Elizabeth Hill. (1998). Maps of Territory, History, and Community in Aztec Mexico. In G. M. Lewis (Ed.), *Cartographic Encounters: Perspectives on Native America Mapmaking and Map Use*. Chicago: University of Chicago Press.
+-   Create online story maps
+-   Create printed maps
 
 > [slide deck](slides/slides08.html) [...](lessons/lesson08.html)	
 
@@ -215,17 +215,17 @@ during the quarter.
 
 #### *Week 9 (Mar. 21 - Mar. 25): GIS and Indigenous Knowledge*  
 
-> Identify differences between ontological models used in GIS and Indigeneous ways of knowing and how these differences limit the translation of Indigenous knowledge into GIS based cartography.
+> Identify differences between ontological models used in GIS and Indigenous ways of knowing and how these differences limit the translation of Indigenous knowledge into GIS based cartography. 
 
 -  Circular time and fluid boundaries
--  Ontologies: Indigenous, relartional, and Cartesian
+-  Ontologies: Indigenous, relational, and Cartesian
 -  GIS, education, and empowerment
 
 > Required Reading
 
 -   Rundstrom, Robert A. (1991). Mapping, Postmodernism, Indigenous People And The Changing Direction Of North American Cartography. *Cartographica*, 28(2), 1-12. doi: 10.3138/5j46-51t2-7m42-316g
 -   Mackenzie, Kierin, Pirker, John, & Reitsma, Femke. (2020). Towards a SpatioTemporal Data Model for Traditional Ecological Knowledge/Indigenous Knowledge. *Cartographica*, 55(1), 29-41. doi: 10.3138/cart-2017-0027
--   Kerski, Joseph J. (2006). Earth Vision: Understanding the Earth with Geographic Information Systems. *Winds fo Change*, 21(3), 12-15. 
+-   Kerski, Joseph J. (2006). Earth Vision: Understanding the Earth with Geographic Information Systems. *Winds of Change*, 21(3), 12-15. 
 
 > Suggested Reading:
 
@@ -238,10 +238,11 @@ during the quarter.
 
 #### *Week 10 (Mar. 28 - Apr. 1): Contemporary Indigenous Cartography*  \[ TURN IN ASSIGNMENT \#3 \]  
 
-> Explore contemporary Indigenous use of maps and GIS in the contexts of North American Tribes and Indigenous groups in Latin America, Africa, and South East Asia. 
+> Explore contemporary Indigenous use of maps and GIS in the contexts of North American Tribes and Indigenous groups in Latin America, Africa, and South East Asia. During this week time will be reserved for student presentations. 
 
 -  Tribal use of GIS
 -  Indigenous cartography
+-  Student presentations
 
 > Required Reading:
 
@@ -258,7 +259,7 @@ during the quarter.
 
 #### *Week 11 (Apr. 4 - Apr. 8): Participatory Mapping, Community-Based Mapping, and Indigenous Mapping*  
 
-> Introduce the pratice of participatory mapping that is widespread in the development sector and the academic sector and how this practice can be applied in the context of Indigenous groups. 
+> Introduce the practice of participatory mapping that is widespread in the development sector and the academic sector and how this practice can be applied in the context of Indigenous groups. 
 
 -  Participatory research methods
 -  Levels of participation
@@ -288,7 +289,7 @@ during the quarter.
 
 -   counter mapping
 -   maps and defense of territory
--   legitemacy
+-   legitimacy
 
 > Required Reading:
 
@@ -307,7 +308,7 @@ during the quarter.
 
 #### *Week 13 (Apr. 18 - Apr. 22): Indigenous mapping and Natural Resource Management*  
 
-> Explore how Indigenous groups have articulated rights over natrual resources through the use of maps or have lost territories due to natural resource mapping and claims.
+> Explore how Indigenous groups have articulated rights over natural resources through the use of maps or have lost territories due to natural resource mapping and claims. Possible field trip to Miccosukee Tribe Water Management Group. 
 
 -   Rights to nature
 -   Informed consent
@@ -316,7 +317,7 @@ during the quarter.
 
 -   Radcliffe, Sarah A. (2020). Geography and indigeneity III: Co-articulation of colonialism and capitalism in indigeneity’s economies. Progress in Human Geography, 44(2), 374-388. doi: 10.1177/0309132519827387
 -   Norris, Timothy. (2014). Bridging the Great Divide: state, civil society, and 'participatory' conservation mapping in a resource extraction zone. *Applied Geography*, 54(2014), 262-274. doi: http://dx.doi.org/10.1016/j.apgeog.2014.05.016
--   Sletto, Bjorn, Barry, Deborah, Bryan, Joe, Hale, Charles, & Torrado, Marla. (2011). Social Mapping and the Struggles for Local Rights to Territroy and Resources: *The Latin American Experience*. Washington D.C.: Rights and Resources
+-   Sletto, Bjorn, Barry, Deborah, Bryan, Joe, Hale, Charles, & Torrado, Marla. (2011). Social Mapping and the Struggles for Local Rights to Territory and Resources: *The Latin American Experience*. Washington D.C.: Rights and Resources
 
 > Suggested Reading:
 
@@ -346,3 +347,5 @@ during the quarter.
 > [slide deck](slides/slides14.html) [...](lessons/lesson14.html)	
 
 #### Finals Week:* \[ TURN IN FINAL PROJECT \]
+
+---

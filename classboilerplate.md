@@ -11,7 +11,7 @@
   -   If your report concern addresses an immediate threat of harm to a student or the university community, please call the University of Miami Police Department at (305) 284-6666 or dial 911.
   -   [Title IX Resource Center](https://titleix.miami.edu/index.html){:target="\_blank"}  for reporting sexual misconduct, harassment, or discrimination.
   -   [Dean of Students Office](https://doso.studentaffairs.miami.edu/student-support/report-a-concern/index.html){:target="\_blank"} for general concerns and specific concerns related to student sexual misconduct, drug and alcohol abuse, academic integrity, personal challenges, and UM employee violations.
-  -   [UM HUman Resources](https://www.hr.miami.edu/about-hr/service-areas/about-wei/){:target="_blank"} for concerns about equity, inclusion, discrimination, harassment, and retaliation.
+  -   [UM Human Resources](https://www.hr.miami.edu/about-hr/service-areas/about-wei/){:target="_blank"} for concerns about equity, inclusion, discrimination, harassment, and retaliation.
 
 -   *Computer/Web Browsing:* Computer use and web browsing are part of class activities and are to be always relevant to course material. Other forms of computer use or web browsing that are not relevant to the class are not permitted.
 
