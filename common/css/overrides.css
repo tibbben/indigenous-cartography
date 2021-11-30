@@ -25,8 +25,12 @@ section {
 	color: #727272;
   }
   #main {
-	  width: 100% !important; 
-	  max-width: 100% !important;
+	  width: 80% !important; 
+	  max-width: 80% !important;
+    height: 70% !important; 
+    max-height: 70% !important;
+    margin: 2.5em auto;
+    padding-top: 2em;
   }
 }
 .navigate-right.enabled {
