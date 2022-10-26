@@ -1,7 +1,7 @@
 ## GEG 390 & GEG 625 / APY 418 / INS 301
 ## [Indigenous Cartographies and Cartographies of the Indigenous (3 units)](https://github.com/tibbben/indigenous-cartography)  
 
-[ D R A F T ]  
+\[ D R A F T \]  
 
 ### Instructor:  
 Instructor: Timothy Norris, Ph.D.  
