@@ -1,13 +1,17 @@
 ## GEG 390 & GEG 625 / APY 418 / INS 301
 ## [Indigenous Cartographies and Cartographies of the Indigenous (3 units)](https://github.com/tibbben/indigenous-cartography)  
 
+[ D R A F T ]  
+
 ### Instructor:  
 Instructor: Timothy Norris, Ph.D.  
 email: [tnorris@miami.edu](tnorris@miami.edu)  
 Office Hours: TBD  
 
 ### Meetings:   
-TBD Spring 2022
+TuTh 2:00 - 3:15 pm  
+Ungar 506  
+01/17/2023 - 05/01/2023
 
 ### Course Description:  
 "More Indigenous territory has been claimed by maps than by guns." (Nietschmann 1995). Whether true or not, this statement underlines the importance of understanding how cartographic practices and performances form a part of the historical and contemporary Indigenous experience. This course combines thinking from the disciplines of geography, history, anthropology, and the history of science to explore map making through ancestral, Indigenous, colonial, anti-colonial, and de-colonial lenses within a global scope with an emphasis on the Americas. Inquiry will focus on how maps are used as tools to claim power, territory, sovereignty, and identity, and how they are leveraged for conservation and natural resource management on Indigenous territory. Learning will be based on reading literary and map texts, discussions, excursions to the University of Miami Libraries’ Special Collections and the Lowe are Museum, and a (potential) field trip. By the end of the semester students will understand how Indigenous geographies intermingle with western/European cartographic traditions by tracing the distinct histories of practice and then examining how they have come together in the past and continue to do so in the present. Apart from reading maps, students explore various mapping technologies from manual hand drawn or narrative traditions to digital mapping platforms such as ESRI’s Storymap suite.

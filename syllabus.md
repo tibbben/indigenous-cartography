@@ -283,7 +283,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides11.html) [...](lessons/lesson11.html)	
 
-#### *Week 12 (Apr. 11 - Apr. 15): Counter Mapping and Land Occupancy Mapping, *  
+#### *Week 12 (Apr. 11 - Apr. 15): Counter Mapping and Land Occupancy Mapping*  
 
 > Explore how mapmakers have tested whether "The master's tools can be used to bring down the master's house"
 
