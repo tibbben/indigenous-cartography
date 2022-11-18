@@ -1,4 +1,4 @@
-## GEG 390 & GEG 625 / APY 418 / INS 301
+## GEG 390 / APY 418 and APY 611 / INS 301 / LAS 320
 ## [Indigenous Cartographies and Cartographies of the Indigenous (3 units)](https://github.com/tibbben/indigenous-cartography)  
 
 \[ D R A F T \]  
@@ -10,7 +10,7 @@ Office Hours: TBD
 
 ### Meetings:   
 TuTh 2:00 - 3:15 pm  
-Ungar 506  
+Dooly Memorial 115  
 01/17/2023 - 05/01/2023
 
 ### Course Description:  
