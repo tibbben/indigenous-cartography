@@ -3,6 +3,9 @@
 
 \[ D R A F T \]  
 
+### Land Acknowledgement  
+This course originates from the University of Miami and takes place on the Coral Gables campus in greater Miami, Florida. We acknowledge the ancestral and traditional territories of the Tequesta peoples, the Seminole Tribe of Florida, the Council of the Original Miccosukee and Simanolee Nation Aboriginal Peoples, and the Miccosukee Tribe of the Indians of Florida who are the original owners and custodians of the land upon which we stand and learn. This acknowledgment is one of the ways in which we work to educate ourselves about this land, its history, and our relationships with the land and each other.
+
 ### Instructor:  
 Instructor: Timothy Norris, Ph.D.  
 email: [tnorris@miami.edu](tnorris@miami.edu)  
