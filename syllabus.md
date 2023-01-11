@@ -52,9 +52,9 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Required Reading:
 
--   Rose-Redwood, Reuben, Barnd, Natchee Blu, Lucchesi, Annita Hetoevėhotohke’e, Dias, Sharon, & Patrick, Wil. (2020). Decolonizing the Map: Recentering Indigenous Mappings. *Cartographica: The International Journal for Geographic Information and Geovisualization*, 55(3), 151-162. doi: 10.3138/cart.53.3.intro
--   Herman, R. (2008). Reflections on the Importance of Indigenous Geography. *American Indian Culture and Research Journal*, 32(3), 73-88. doi: 10.17953/aicr.32.3.n301616057133485
--   Butzer, Karl W., & Williams, Barbara J. (1992). Addendum: Three Indigenous Maps from New Spain Dated ca. 1580. *Annals of the Association of American Geographers*, 82(3), 536-542. 
+-   Rose-Redwood, Reuben, Barnd, Natchee Blu, Lucchesi, Annita Hetoevėhotohke’e, Dias, Sharon, & Patrick, Wil. (2020). Decolonizing the Map: Recentering Indigenous Mappings. *Cartographica: The International Journal for Geographic Information and Geovisualization*, 55(3), 151-162. doi: [10.3138/cart.53.3.intro](https://doi.org/10.3138/cart.53.3.intro)
+-   Herman, R. (2008). Reflections on the Importance of Indigenous Geography. *American Indian Culture and Research Journal*, 32(3), 73-88. doi: [10.17953/aicr.32.3.n301616057133485](https://doi.org/10.17953/aicr.32.3.n301616057133485)
+-   Butzer, Karl W., & Williams, Barbara J. (1992). Addendum: Three Indigenous Maps from New Spain Dated ca. 1580. *Annals of the Association of American Geographers*, 82(3), 536-542. [https://www.jstor.org/stable/2563360](https://www.jstor.org/stable/2563360).
 
 > Required website review:
 
@@ -63,7 +63,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Suggested Reading:
 
--   Cameron, Emilie. (2008). Indigenous spectrality and the politics of postcolonial ghost stories. *Cultural Geographies*, 15(3), 383-393.
+-   Cameron, Emilie. (2008). Indigenous spectrality and the politics of postcolonial ghost stories. *Cultural Geographies*, 15(3), 383-393. doi: [10.1177/1474474008091334](https://doi.org/10.1177/1474474008091334)
 -   [https://www.landgrabu.org](https://www.landgrabu.org)
 
 > [slide deck](slides/slides01.html) [...](lessons/lesson01.html)

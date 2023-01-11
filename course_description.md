@@ -1,7 +1,7 @@
 ## GEG 390 / APY 418 and APY 611 / INS 301 / LAS 320
 ## [Indigenous Cartographies and Cartographies of the Indigenous (3 units)](https://github.com/tibbben/indigenous-cartography)  
 
-\[ D R A F T \]  
+![Belize Coastline](common/assets/images/cover_small_banner.jpg)
 
 ### Land Acknowledgement  
 This course originates from the University of Miami and takes place on the Coral Gables campus in greater Miami, Florida. We acknowledge the ancestral and traditional territories of the Tequesta peoples, the Seminole Tribe of Florida, the Council of the Original Miccosukee and Simanolee Nation Aboriginal Peoples, and the Miccosukee Tribe of the Indians of Florida who are the original owners and custodians of the land upon which we stand and learn. This acknowledgment is one of the ways in which we work to educate ourselves about this land, its history, and our relationships with the land and each other.
@@ -29,7 +29,7 @@ The course will draw from a broad set of texts and maps as secondary sources and
 -   Hidalgo, Alex. (2019). *Trail of Footprints: A History of Indigenous Maps from Viceregal Mexico.* Austin: University of Texas Press.
 -   Taylor, Anne, Gadsen, David, Kerski, Joseph J., & Guglielmo, Heather (Eds.). (2012). Tribal GIS: Supporting Native American Decision Making. Redlands, CA: ESRI Press.
 
-Note that all secondary text/map materials will be made available through the University of Miami Libraries course reserves or will be posted online using Blackboard. 
+Note that all secondary text/map materials will be made available through the University of Miami Libraries course reserves or will be posted online using Blackboard in the course documents section. 
 
 ### Measurable Learning Outcomes:  
 Upon completion of the course the students will be able to:  
