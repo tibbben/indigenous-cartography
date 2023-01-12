@@ -246,12 +246,17 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Required Reading:
 
--   Orlove, Benjamin S. (1991). Mapping Reeds and Reading Maps: The Politics of Representation in Lake Titicaca. *American Ethnologist*, 18(1), 3-38. 
 -   "Introduction" (pp 9-28) in Dieckmann, Ute (Ed.). (2021). *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa*. Bielefeld: transcript Verlag.
 -   Smith, Laura. (2008). Indigenous Geography, GIS, and Land-Use Planning on the Bois Fore Reservation. *American Indian Culture and Research Journal*, 32(3), 139-151. 
+-   Cancel, J. and Backhouse, P. (2012). "Seminole Geography: Using GIS as a tool for tribal historic preservation" in *Tribal GIS: Supporting Native American Decision Making*, Taylor, Anne, Gadsen, David, Kerski, Joseph J., & Guglielmo, Heather (Eds.). Redlands, CA: ESRI Press. 
+
+> Required website review:
+
+-   [https://www.tribalgis.com](https://www.tribalgis.com)
 
 > Suggested Reading:
 
+-   Orlove, Benjamin S. (1991). Mapping Reeds and Reading Maps: The Politics of Representation in Lake Titicaca. *American Ethnologist*, 18(1), 3-38. 
 -   Alcorn, Janis B. “Keys to Unleash Mapping’s Good Magic.” *PLA Notes* 39.2 (2000): 10–13.
 -   Norris, Timothy. (2017). Public Participation GIS, Participatory GIS and Participatory Mapping. In B. Warf (Ed.), *Oxford Bibliographies in Geography.* New York: Oxford University Press.
 
@@ -269,10 +274,11 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 -   Chambers, Robert. (2006). Participatory Mapping and Geographic Information Systems: Whose Map? Who is Empowered and Who Dis-empowered? Who Gains and Who Loses? *The Electronic Journal on Information Systems in Developing Countries*, 25(2), 1-11.  
 -   "Making of the Maya Atlas" (pp) in Toledo Maya Cultural Council, Toledo Alcaldes Association. (1997). *The Maya Atlas - The Struggle to Preserve Maya Lands in Southern Belize.* Berkeley: North Atlantic Books.
--   Chapin, M., Lamb, Z., & Threlkeld, B. (2005). Mapping indigenous lands. *Annual Review of Anthropology*, 34, 619-638.
+-   Cancel, Juan and Paul Backhouse (2017). "Archaeometry: Where GIS Meets the People" in *We Come for Good; Archaeology and Tribal Historic Preservation at the Seminole Tribe of Florida*, Backhouse, P., Weisman, B. & Rosebrough, MB. (eds). Gainesville: University Press of Florida.  
 
 > Suggested Reading:
 
+-   Chapin, M., Lamb, Z., & Threlkeld, B. (2005). Mapping indigenous lands. *Annual Review of Anthropology*, 34, 619-638.
 -   Flavelle, Alix. (1994). Community-Based Mapping in Southeast Asia. *Cultural Survival Quarterly*, 18(4). 
 -   Freire, Paulo. (1970). *Pedagogy of the Oppressed.* New York: Continuum.
 -   Norris, Timothy. (2018). Participatory Mapping. In J. Deupi (Ed.), Antillean Visions; or, Maps and the Making of the Caribbean. Miami: Lowe Art Museum.

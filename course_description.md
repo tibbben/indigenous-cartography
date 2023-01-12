@@ -22,7 +22,7 @@ Dooly Memorial 115
 Nietschmann, Bernard. (1995). Defending the Miskito Reefs with Maps and GPS: Mapping with Sail, Scuba, and Satellite. *Cultural Survival Quarterly*, 18(4), 34-37.  
  
 ### Texts and Materials:  
-The course will draw from a broad set of texts and maps as secondary sources and from selected items held in the UM Libraries Special Collections and the Lowe Art Museum as primary sources. The principal texts used in the course include (purchasing one or several of these titles is recommended but not required):
+The course will draw from a broad set of texts and maps as secondary sources and from selected items held in the UM Libraries Special Collections and the Lowe Art Museum as primary sources. There are no principal texts used in the course but the following books are useful starting points (purchasing one or several of these titles is recommended but not required):
 
 -   Warhus, Mark. (1997). *Another America: Native American Maps and the History of Our Land.* New York: St. Martin’s Press.
 -   Cole, Daniel G., & Sutton, Imre (Eds.). (2014). *Mapping native America : cartographic interactions between Indigenous peoples, government, and academia* (Vols. 1, 2 and 3). North Charleston: CreateSpace Independent Publishing Platform.
@@ -46,7 +46,7 @@ Upon completion of the course the students will be able to:
 10.  Evaluate positionality of cartographers that author maps with content related to Indigenous groups, including a self-evaluation of positionality in student projects.  
 
 ### Course Resources:
-All course information and materials will be posted to the [Blackboard Site](#).
+All course information and materials will be posted to the [Blackboard Site](https://www.courses.miami.edu/webapps/blackboard/execute/courseMain?course_id=_613433_1).
 
 ### Blackboard, e-mail, and data management:
 It is essential that you maintain your UM e-mail account because notifications in Blackboard will be used to communicate with the class. You should ensure that your account neither rejects my e-mail nor exceeds your assigned storage quota. You should also backup all of your work: there is simply no excuse for losing your work due to “computer issues” (which are really “human issues”). If you have questions, ask your instructor. 
