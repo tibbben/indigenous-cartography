@@ -10,53 +10,59 @@ Lesson 1
 
 *__Class 1__*  
 
-1. Syllabus review  
-   -   exploring in a safe space  
-       -   introduce myself (data geek, )
-       -   land acknowledgement
-       -   self-introductions if you feel like it
-   -   course materials and communication all on blackboard
-       -   no real required texts, most will be placed in blackboard
+1. Introductions and Housekeeping  
+   -   exploring in a safe space   
+       -   introduce myself (data geek, )  
+       -   land acknowledgement  
+       -   self-introductions if you feel like it  
+    - second week I will not be here (travel) - what to do  
+       -   Mon, Fri? just Friday?  
+2. Syllabus review  
+   -   course materials and communication all on blackboard  
+       -   no real required texts, most will be placed in blackboard  
    -   readings are required before class (this week for Thursday)  
-       -   one sentence summaries of required readings sent to me before Thursday's class (can be sent earlier)
+       -   one sentence summaries of required readings sent to me before Thursday's class (can be sent earlier)  
        -   reading list is a guide, and entry point; be critical  
-       -   you are expected to read outside the required reading (either from suggested or things you find)
-   -   class participation is important (as is attendance)
-   -   class as a research project
-       -   a challenge for undergraduates ...
-       -   built through the four class projects
-       -   strong beginning will make the end more rewarding
-       -   choose your tribe or indigenous group early, not your life work, just one exploration
-   -   midterm and final mostly about reflecting on what you have read and researched
-   -   guest speaker and visit to special collections (Arthur Dunkleman)
-   -   potential field trips (Miccosukee and Seminole) TBD 
-       -   self financed (you will have to pay gas, entrance fees, etc)
-       -   thoughts?
-   -   meant as introduction to a very broad range of conversations
-       -    syllabus as an attempt to eliterate
-       -    whats missing??
-2. Indigeneity  
+       -   you are expected to read outside the required reading (either from suggested or things you find)  
+   -   class participation is important (as is attendance)  
+   -   class as a research project  
+       -   a challenge for undergraduates ...  
+       -   built through the four class projects  
+       -   strong beginning will make the end more rewarding  
+       -   choose your tribe or indigenous group early, not your life work, just one exploration  
+   -   midterm and final mostly about reflecting on what you have read and researched  
+   -   guest speaker and visit to special collections (Arthur Dunkleman)  
+   -   potential field trips (Miccosukee and Seminole) TBD  
+       -   self financed (you will have to pay gas, entrance fees, etc)  
+       -   thoughts?  
+   -   meant as introduction to a very broad range of conversations  
+       -   syllabus as an attempt to literate  
+       -   whats missing??   
+3. Indigeneity  
    -   reflect on what it means to you  
    -   write a short paragraph and share if you want to  
    -   Indigenous science
        -   energies and entities
        -   wisdom as value
    -   who is not indigenous? Importance of label?
-3. Cartography/geography  
+4. Cartography/geography  
    -   content and process (Rose-Redwood)  
    -   anti-colonial, de-colonial (rose-redwood)  
    -   Herman's definition of geography "interconnections between environment, modes of production, social and political formations, and cultural practices and values" (p. 77)  
        -   human relationship to earth, economic, political  
        -   rational, imperialistic, measurement  
        -   property and capitalism  
-4. Tension
+3. Map Power and Middle British Colonies in North America 
+   -   evaluate Nietschmann quote ... write your first thoughts down - share if you like.
+   -   show all maps in high resolution
+6. Tension
    -   cartographic practice (measurement, commodification) and indigenous centering (relation with earth and living communities)  
    -   problems of time, immediacy vs long-term effect  
    -   layers of meaning and purpose (Mr. Ah's map)  
    -   Weber(?) and demystification (un-magic)
        -   colonialism, capitalism, modernity <=> Disenchantment
        -   1918, actually borrowed from someone else
-5. For discussion
+7. For discussion
    -   glorification of indigenous knowledge
    -   lack of discussion around violence, punishment, conflict
    -   map (p. 80) from Herman
