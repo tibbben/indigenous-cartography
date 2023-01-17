@@ -20,6 +20,7 @@ Lesson 1
 2. Syllabus review  
    -   course materials and communication all on blackboard  
        -   no real required texts, most will be placed in blackboard  
+       -   exception is the syllabus and slides, all on github
    -   readings are required before class (this week for Thursday)  
        -   one sentence summaries of required readings sent to me before Thursday's class (can be sent earlier)  
        -   reading list is a guide, and entry point; be critical  
