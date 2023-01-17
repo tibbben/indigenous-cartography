@@ -1,12 +1,7 @@
 Lesson 1  
 ========
 
-**Learning Objectives**
-- TBD
-
 ---
-
-**Lesson Plan**  
 
 *__Class 1__*  
 
@@ -21,16 +16,17 @@ Lesson 1
    -   course materials and communication all on blackboard  
        -   no real required texts, most will be placed in blackboard  
        -   exception is the syllabus and slides, all on github
-   -   readings are required before class (this week for Thursday)  
-       -   one sentence summaries of required readings sent to me before Thursday's class (can be sent earlier)  
-       -   reading list is a guide, and entry point; be critical  
-       -   you are expected to read outside the required reading (either from suggested or things you find)  
-   -   class participation is important (as is attendance)  
    -   class as a research project  
        -   a challenge for undergraduates ...  
        -   built through the four class projects  
        -   strong beginning will make the end more rewarding  
        -   choose your tribe or indigenous group early, not your life work, just one exploration  
+   -   readings are required before class (this week for Thursday)  
+       -   (maybe) one sentence summaries of required readings sent to me before Thursday's class (can be sent earlier)  
+       -   take notes on readings somewhere (data management, research skills, reference manager)
+       -   reading list is a guide, and entry point; be critical  
+       -   you are expected to read outside the required reading (either from suggested or things you find)  
+   -   class participation is important (as is attendance)  
    -   midterm and final mostly about reflecting on what you have read and researched  
    -   guest speaker and visit to special collections (Arthur Dunkleman)  
    -   potential field trips (Miccosukee and Seminole) TBD  
