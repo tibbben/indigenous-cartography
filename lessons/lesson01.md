@@ -10,7 +10,7 @@ Lesson 1
        -   introduce myself (data geek, )  
        -   land acknowledgement  
        -   self-introductions if you feel like it  
-    - second week I will not be here (travel) - what to do  
+   -   second week I will not be here (travel) - what to do   
        -   Mon, Fri? just Friday?  
 2. Syllabus review  
    -   course materials and communication all on blackboard  
@@ -59,19 +59,19 @@ Lesson 1
    -   Weber(?) and demystification (un-magic)
        -   colonialism, capitalism, modernity <=> Disenchantment
        -   1918, actually borrowed from someone else
-7. For discussion
-   -   glorification of indigenous knowledge
-   -   lack of discussion around violence, punishment, conflict
-   -   map (p. 80) from Herman
-   -   themes (?)
-      -   resource management
-      -   property(?)
-      -   language and toponyms
-   -   relaciones geograficas (1579-1585)
-      -   King Phillip II of Spain
-      -   which way is north, does it matter
-      -   blending of social/political, historical, spiritual, and geographical maps
-      -   a form of participatory mapping (?)
+7. For discussion  
+   -   glorification of indigenous knowledge  
+   -   lack of discussion around violence, punishment, conflict  
+   -   map (p. 80) from Herman  
+   -   themes (?)  
+      -   resource management  
+      -   property(?)  
+      -   language and toponyms  
+   -   relaciones geograficas (1579-1585)  
+      -   King Phillip II of Spain  
+      -   which way is north, does it matter  
+      -   blending of social/political, historical, spiritual, and geographical maps  
+      -   a form of participatory mapping (?)  
 
 *__Class 2__*  
 
