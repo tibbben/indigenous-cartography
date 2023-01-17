@@ -301,7 +301,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 -   Peluso, Nancy Lee. (1995). Whose woods are these? Counter-mapping forest territories in Kalimantan, Indonesia. Antipode, 27(4), 383-406. 
 -   Selections from (TBD) Brody, Hugh. (1982). *Maps and Dreams.* New York: Pantheon Books.
--   Tobias, Kerry. (2000). *Chief Kerry's Moose: A guidebook to land use and occupancy mapping, research design and data collection.* Vancouver, BC: Union of BC Chiefs and Ecotrust Canada.
+-   Tobias, Kerry. (2000). *Chief Kerry's Moose: A guidebook to land use and occupancy mapping, research design and data collection.* Vancouver, BC: Union of BC Chiefs and Ecotrust Canada. [Open Access PDF](http://archive.ecotrust.org/publications/Chief_Kerrys_Moose.pdf)
 
 > Suggested Reading:
 

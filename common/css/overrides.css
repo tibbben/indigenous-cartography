@@ -14,39 +14,91 @@ section {
 .bluetable td {
 	border: 2px solid white !important;
 }
-.whitetable td {
-  border: 0px solid white !important;
- padding: 0.1em 0.5em 0.1em 0.5em !important;
+a {
+  color: #17a;
 }
-@media print {
+@media print, @media pdf {
   body {
-	padding: 0px !important;
+    padding: 0px !important;
     font-size: 9pt !important;
-	color: #727272;
+    color: #727272;
+    margin: 20mm 15mm 20mm 15mm;
+    font: 14px/1.5 Helvetica, Arial, sans-serif;
   }
   #main {
-	  width: 80% !important; 
-	  max-width: 80% !important;
-    height: 70% !important; 
-    max-height: 70% !important;
-    margin: 2.5em auto;
-    padding-top: 2em;
+	  width: 100% !important; 
+	  max-width: 100% !important;
+  }
+  @page {
+    size: auto;
+    margin: 20mm 15mm 20mm 15mm;
   }
 }
-.navigate-right.enabled {
-  border-left-color: #f37320 !important;
+.center {
+  margin-right: auto !important;
+  margin-left: auto !important;
 }
-.navigate-left.enabled {
-  border-right-color: #f37320 !important;
+
+/*
+ * all for header footer template
+ */
+.template-container {
+  display: flex; flex-direction: column; align-items: center; width: 1366px; height: 768px; position: absolute; top: 0px; left: 0px;
 }
-.navigate-up.enabled {
-  border-bottom-color: #f37320 !important;
+.template-header {
+  flex: none; font-size: 0.6em !important; width: 100%; text-align: left; color: #777;
 }
-.navigate-down.enabled {
-  border-top-color: #f37320 !important;
+.template-header span {
+  margin-left: 23px; float: right; margin-right: 23px; color: #c9bf9d;
+}
+.template-content-containter {
+  flex: 1; height: 100%; width: 100%; margin-left: auto; margin-right: auto;
+}
+.template-content {
+  max-width: 75%; margin: 0px auto 0px auto !important; font-size: 80% !important; line-height: 120% !important; position: relative; top: 50%; transform: translateY(-50%);
+}
+.template-content-jes {
+  max-width: 100%; margin: 0px auto 0px auto !important; font-size: 80% !important; line-height: 120% !important; position: relative; top: 50%; transform: translateY(-50%);
+}
+.template-content img {
+  max-height: 500px;
+}
+.template-title {
+  font-weight: bold !important; font-size: 120% !important; margin-bottom: 30px !important; text-align: center;
+}
+.template-element {
+  max-width: 100%; margin: 0px auto 0px auto !important;
+}
+.template-element ul {
+  line-height: 145%;
+}
+.template-citation {
+  flex: none; font-size: 40% !important; width: 100%; margin: 7px auto 7px auto !important; z-index: 100 !important; max-width: 80%; text-align: left; padding-left: 23px !important; color: #aaa; line-height: 110% !important;
+}
+.reference {
+  font-size: 55% !important; 
+  color: #444 !important; 
+  width: 90% !important; 
+  margin-left: auto !important; 
+  margin-right: auto !important; 
+  margin-top: 23px !important;
+}
+.template-citation a {
+  color: #abe;
+}
+.template-footer {
+  flex: none; width: 110%;
+  text-align: left;
+}
+.template-footer td {
+  background-size: 100% 96px;
+}
+.template-footer img {
+  max-width: 230px;
+  margin-left: 10% !important;
 }
 .um-template-container {
-  display: flex; flex-direction: column; align-items: center; width: 100%; height: 768px; position: absolute; top: 0px; left: 0px;
+  display: flex; flex-direction: column; align-items: center; width: 1366px; height: 768px; position: absolute; top: 0px; left: 0px;
 }
 .um-template-header {
   flex: none; font-size: 0.6em !important; width: 100%; text-align: left; color: #777;
@@ -58,19 +110,16 @@ section {
   flex: 1; height: 100%; width: 100%; margin-left: auto; margin-right: auto;
 }
 .um-template-content {
-  max-width: 75%; 
-  margin: 0px auto 0px auto !important; 
-  font-size: 80% !important; 
-  line-height: 120% !important; 
-  position: relative; top: 50%; 
-  transform: translateY(-50%);
-  -webkit-transform: translateY(-50%);
+  max-width: 75%; margin: 0px auto 0px auto !important; font-size: 80% !important; line-height: 120% !important; position: relative; top: 50%; transform: translateY(-50%);
+}
+.um-template-content-jes {
+  max-width: 100%; margin: 0px auto 0px auto !important; font-size: 80% !important; line-height: 120% !important; position: relative; top: 50%; transform: translateY(-50%);
 }
 .um-template-content img {
   max-height: 500px;
 }
 .um-template-title {
-  font-weight: bold !important; font-size: 110% !important; margin-bottom: 30px !important; text-align: center;
+  font-weight: bold !important; font-size: 120% !important; margin-bottom: 30px !important; text-align: center;
 }
 .um-template-element {
   max-width: 100%; margin: 0px auto 0px auto !important;
@@ -79,48 +128,14 @@ section {
   line-height: 145%;
 }
 .um-template-citation {
-  flex: none; font-size: 40% !important; width: 100%; margin: 0px auto 0px auto !important; z-index: 100 !important; max-width: 70%; text-align: left; padding-left: 23px !important; color: #aaa;
+  flex: none; font-size: 40% !important; width: 100%; margin: 0px auto 23px auto !important; z-index: 100 !important; max-width: 70%; text-align: left; padding-left: 23px !important; color: #aaa;
 }
 .um-template-citation a {
   color: #abe;
 }
 .um-template-footer {
-  flex: none; width: 100%;
+  flex: none; width: 85%;
 }
 .um-template-footer td {
   background-size: 100% 96px;
-}
-.center {
-  margin-right: auto !important;
-  margin-left: auto !important;
-}
-.table-no-lines td {
-  border-bottom: none !important;
-}
-.shadow-title {
-  text-shadow: 2px 2px 4px #555 !important;
-  color: white;
-}
-.highlight-text {
-  background-color: rgba(0,0,0,0.7); 
-  padding: 13px !important;
-  border-radius: 13px;
-}
-.reference {
-  font-size: 55% !important; 
-  color: #444 !important; 
-  width: 90% !important; 
-  margin-left: auto !important; 
-  margin-right: auto !important; 
-  margin-top: 23px !important;
-}
-
-/* .wrapper h4 {
-  margin-bottom:  0.2em;
-} */
-.wrapper h3 {
-  margin-bottom:  0.3em;
-}
-.wrapper ol, .wrapper ul {
-  margin-top:  -1.3em;
 }
