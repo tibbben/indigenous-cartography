@@ -42,24 +42,37 @@ Lesson 1
        -   energies and entities
        -   wisdom as value
    -   who is not indigenous? Importance of label?
-4. Cartography/geography  
+
+*__Class 2__*  
+
+4. Housekeeping
+   -   go over first assignment
+   -   plans for next week
+   -   arcgis online, photoshop, illustrator ...
+   -   data management and notes
+5. Cartography/geography  
    -   content and process (Rose-Redwood)  
-   -   anti-colonial, de-colonial (rose-redwood)  
+   -   ancestral, anti-colonial, de-colonial (rose-redwood)  
+       - define anti-colonial, de-colonial (I am not so comfortable with these terms)
    -   Herman's definition of geography "interconnections between environment, modes of production, social and political formations, and cultural practices and values" (p. 77)  
        -   human relationship to earth, economic, political  
        -   rational, imperialistic, measurement  
        -   property and capitalism  
-3. Map Power and Middle British Colonies in North America 
+6. Map Power and Middle British Colonies in North America 
    -   evaluate Nietschmann quote ... write your first thoughts down - share if you like.
-   -   show all maps in high resolution
-6. Tension
+   -   read and discuss the Pownall map - particularly the names - toponymy (hardest part of cartography)
+7. Tension
+   -   two maps
+       -   purpose?
+       -   better or worse?
+       -   ask about landgrabu ...
    -   cartographic practice (measurement, commodification) and indigenous centering (relation with earth and living communities)  
    -   problems of time, immediacy vs long-term effect  
    -   layers of meaning and purpose (Mr. Ah's map)  
    -   Weber(?) and demystification (un-magic)
        -   colonialism, capitalism, modernity <=> Disenchantment
        -   1918, actually borrowed from someone else
-7. For discussion  
+8. For discussion  
    -   glorification of indigenous knowledge  
    -   lack of discussion around violence, punishment, conflict  
    -   map (p. 80) from Herman  
@@ -72,9 +85,5 @@ Lesson 1
       -   which way is north, does it matter  
       -   blending of social/political, historical, spiritual, and geographical maps  
       -   a form of participatory mapping (?)  
-
-*__Class 2__*  
-
-1. TBD
 
 
