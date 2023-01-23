@@ -9,7 +9,7 @@ This course originates from the University of Miami and takes place on the Coral
 ### Instructor:  
 Instructor: Timothy Norris, Ph.D.  
 email: [tnorris@miami.edu](tnorris@miami.edu)  
-Office Hours: TBD  
+Office Hours: by appointment at [https://tibben.youcanbook.me/](https://tibben.youcanbook.me/)  
 
 ### Meetings:   
 TuTh 2:00 - 3:15 pm  
