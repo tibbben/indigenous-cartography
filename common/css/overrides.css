@@ -82,12 +82,12 @@ section {
   border-top-color: #003660 !important;
 }
 /* visibility of arrows */
-.reveal .controls .navigate-up, .reveal .controls .navigate-up.enabled {
+/* .reveal .controls .navigate-up, .reveal .controls .navigate-up.enabled {
   display: none;
 }
 .reveal .controls .navigate-down, .reveal .controls .navigate-dwon.enabled {
   display: none;
-}
+} */
 
 /*
  * all for header footer template

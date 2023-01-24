@@ -24,6 +24,7 @@ Nietschmann, Bernard. (1995). Defending the Miskito Reefs with Maps and GPS: Map
 ### Texts and Materials:  
 The course will draw from a broad set of texts and maps as secondary sources and from selected items held in the UM Libraries Special Collections and the Lowe Art Museum as primary sources. There are no principal texts used in the course but the following books are useful starting points (purchasing one or several of these titles is recommended but not required):
 
+-   Woodward, Lewis, Harley, Monnmonier (eds) (1987, 2015). <i>The History of Cartography</i>. Chicago, University of Chicago Press. [Online Access](https://press.uchicago.edu/books/HOC/index.html).
 -   Warhus, Mark. (1997). *Another America: Native American Maps and the History of Our Land.* New York: St. Martin’s Press.
 -   Cole, Daniel G., & Sutton, Imre (Eds.). (2014). *Mapping native America : cartographic interactions between Indigenous peoples, government, and academia* (Vols. 1, 2 and 3). North Charleston: CreateSpace Independent Publishing Platform.
 -   Hidalgo, Alex. (2019). *Trail of Footprints: A History of Indigenous Maps from Viceregal Mexico.* Austin: University of Texas Press.
