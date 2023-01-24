@@ -83,7 +83,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Suggested Reading
 
--   Finney, Ben. (1998). Nautical Cartography and Traditional Navigation in Oceania. In J. B. Harley & D. Woodward (Eds.), *Cartography in the Traditional African, American, Arctic, Australian, and Pacific Societies* (Vol. 2 (3), pp. 443 - 492). Chicago: University of Chicago Press.
+-   Finney, Ben. (1998). Nautical Cartography and Traditional Navigation in Oceania. In J. B. Harley & D. Woodward (Eds.), *Cartography in the Traditional African, American, Arctic, Australian, and Pacific Societies* (Vol. 2 (3), pp. 443 - 492). Chicago: University of Chicago Press. [Online Access](https://press.uchicago.edu/books/HOC/HOC_V2_B3/HOC_VOLUME2_Book3_chapter13.pdf).
 -   Short, John Rennie. (2009). *Cartographic Encounters: Indigenous Peoples and the Exploration of the New World*: Reaktion Books Ltd. [Online Access](https://miami-primo.hosted.exlibrisgroup.com/permalink/f/k23viv/01UOML_ALMA51287020460002976)  
 -   Chapter 1: "An Overview of Native American Maps" (pp 7-36) in Warhus, Mark (1997). *Another America: Native American Maps and the History of Our Land*. New York: St. Martin’s Press.
 
