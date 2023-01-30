@@ -26,13 +26,16 @@ With the Tribe or Indigenous group identified in Assignment #1 research their hi
 Using the materials from assignments #1 and #2 create a ten-minute (maximum) presentation about the identified tribe or Indigenous group. The presentation format will be in Microsoft PowerPoint, Apple KeyNote, or a similar slide-based presentation platform. The presentation will draw from the material in Assignment #1 and in addition will use at least three references from any of the assigned readings in the syllabus (for projects focused on contemporary Indigenous cartography reading ahead will be allowed with instructor approval).
 
 ### Prompt for Assignment #4: Final Class Project (due week 14)
-With the Tribe or Indigenous group identified in earlier assignments tell a story about them with one or more maps. Students will use online platforms such as the ESRI ArcGIS StoryMap platform or KnightLabs Storymap.js or can choose to present one or more printed maps in the context of a short essay. The presentation will include elements drawn from prior assignments Each student project must be vetted with the instructor in order to be considered as the final graded project.
+With the Tribe or Indigenous group identified in earlier assignments tell a story about them with one or more maps. Students will use online platforms such as the ESRI ArcGIS StoryMap or KnightLabs Storymap.js or can choose to present one or more printed maps in the context of a short essay. The presentation will include elements drawn from prior assignments. Each student project must be vetted with the instructor in order to be considered as the final graded project.
 
 Example project ideas:  
 
 - Research the cartographic history of a (North American) Tribe / Indigenous Group and present story map  
 - Research natural resource conflict between Indigenous Group / Tribe and role of maps in the conflict  
 - Research cartographic technique for making maps inclusive of indigenous ways of knowing  
+
+### Expectations for Graduate Level Students  
+All students enrolled in the 600 level course (masters and PhD students) are expected to turn in graduate level work. In other words, work submitted by graduate students will be held to a higher set of criteria for evaluation and grading than that for the work of the undergraduate students. Also, graduate students have two additional obligations to be completed as part of the course. First, each graduate student will be asked to facilitate one class discussion based on a topic chosen from the syllabus. Second, as a part of the class project, each graduate student is expected to explicitly connect the class project to an ongoing/planned research project through additional contextual material for the essay (assignment #2), the presentation (assignment #3), and the final project (assignment #4).
 
 ### Midterm and Final Exam
 
@@ -352,6 +355,6 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides14.html) [...](lessons/lesson14.html)	
 
-#### Finals Week:* \[ TURN IN FINAL PROJECT \]
+#### *Final Exam:* \[ Tuesday May 9th @ 2:00 pm \]
 
 ---

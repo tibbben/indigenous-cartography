@@ -1,4 +1,4 @@
-## GEG 390 / APY 418 and APY 611 / INS 301 / LAS 320
+## GEG 390 / APY 418 and APY 611 / INS 310 / LAS 320/ HIS 396
 ## [Indigenous Cartographies and Cartographies of the Indigenous (3 units)](https://github.com/tibbben/indigenous-cartography)  
 
 ![Belize Coastline](common/assets/images/cover_small_banner.jpg)
@@ -38,6 +38,10 @@ Note that all secondary text/map materials will be made available through the Un
 
 -   Turnbull, D, Chambers, D.W., and Watson, H. (1987). Maps are Territories: Science is an Atlas [web exhibit]. [http://territories.indigenousknowledge.org](http://territories.indigenousknowledge.org)
 -   The Decolonial Atlas [blog]. [https://decolonialatlas.wordpress.com/](https://decolonialatlas.wordpress.com/).  
+
+> Shared Notes:  
+
+-   Throughout the course we will use a shared notes document located at: [https://etherpad.wikimedia.org/p/indigenous-cartography](https://etherpad.wikimedia.org/p/indigenous-cartography)  
 
 ### Measurable Learning Outcomes:  
 Upon completion of the course the students will be able to:  

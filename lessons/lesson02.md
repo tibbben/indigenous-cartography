@@ -66,8 +66,29 @@ Lesson 2
 
 *__Class 2__*  
 
-1. Introductions and Housekeeping  
-2. ArcGIS Online 
+1. Introduction and Housekeeping
+
+2. Expectations for ArcGIS Online use in class
+   - as a taste of future work options (not a GIS class)
+   - story maps (second tutorial at some point)
+   - ArcGIS Online vs ArcGIS Pro, ArcMap Desktop, and QGIS
+   - either as potential work (directly) or management - think key concepts and terms
+   - engagement with geospatial data sources and how to use
+
+3. Review of Lecture
+   - stories vs analysis - link to the hockey stick graph
+   - GIS as data management
+   - too easy to make a bad map, much harder to make a good story
+
+4. ArcGIS Online Introduction - group work - 60 min 2:25
+   - go through login in, getting ArcGIS Pro if they want, issues (is there anyone who cannot login) 5 min
+   - have them perform tutorial all the way through creating and sharing the group map - 45 min
+   - discuss division of labor within groups
+   - trace some trees - 10 min
+
+Tribal Lands Ceded
+Tribal Lands (Census AIANNH) 
+
 
 Notes:  
 
