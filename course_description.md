@@ -41,7 +41,7 @@ Note that all secondary text/map materials will be made available through the Un
 
 > Shared Notes:  
 
--   Throughout the course we will use a shared notes document located at: [https://etherpad.wikimedia.org/p/indigenous-cartography](https://etherpad.wikimedia.org/p/indigenous-cartography)  
+-   Throughout the course we will use a shared notes document located at: [https://etherpad.wikimedia.org/p/indigenous-cartography](https://etherpad.wikimedia.org/p/indigenous-cartography){:target="_blank"}  
 
 ### Measurable Learning Outcomes:  
 Upon completion of the course the students will be able to:  

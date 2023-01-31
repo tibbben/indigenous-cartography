@@ -71,7 +71,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides01.html) [...](lessons/lesson01.html)
 
-#### *Week 2 (Jan. 24 - Jan. 28): Ancestral Cartographies* 
+#### *Week 2 (Jan. 24 - Jan. 26): Ancestral Cartographies* 
 
 > On ancestral Indigenous cartographic practice outside of the context of anglophile/western geography.  
 
@@ -92,7 +92,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides02.html) [...](lessons/lesson02.html)
 
-#### *Week 3 (Jan. 31 - Feb. 4): "Western" Cartesian Cartography and Imperialism* \[ TURN IN ASSIGNMENT \#1 \]  
+#### *Week 3 (Jan. 31 - Feb. 2): "Western" Cartesian Cartography and Imperialism* \[ TURN IN ASSIGNMENT \#1 \]  
 
 > Briefly outline the history of cartography from the perspective of cartesian anglophile/western geography, exploration, imperialism, and conquest.
 
@@ -114,7 +114,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides03.html) [...](lessons/lesson03.html)	
 
-#### *Week 4 (Feb. 7 - Feb. 11): Indigenous Rights, Property, and Maps*  
+#### *Week 4 (Feb. 7 - Feb. 9): Indigenous Rights, Property, and Maps*  
 
 > Examine how maps, GIS, and property come together as tools of governance. This week will include a visit to the University of Miami Libraries to engage with primary materials held by the University of Miami Libraries Special Collections.
 
@@ -137,7 +137,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides04.html) [...](lessons/lesson04.html)	
 
-#### *Week 5 (Feb. 14 - Feb. 18): Indigenous Cartographies and Conquest* 
+#### *Week 5 (Feb. 14 - Feb. 16): Indigenous Cartographies and Conquest* 
 
 > Explore historical record of Indigenous participation in cartographic practice in the conquest of the New World.  This week will include a visit to the University of Miami Lowe Art Museum to engage with primary materials.
 
@@ -148,6 +148,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 -   Selections from Hidalgo, Alex. (2019). *Trail of Footprints: A History of Indigenous Maps from Viceregal Mexico*. Austin: University of Texas Press.
 -   Selections from Mundy, Barbara E. (1996). *The Mapping of New Spain*. Chicago: University of Chicago Press.
+-   Latour, Bruno. (1987). "Centers of Calculation (Chapter 6)" in <i>Science in Action: How to Follow Scientists and Engineers Through Society</i>. Cambridge MA: Harvard University Press. pp 215 - 257.
 
 > Suggested Reading:
 
@@ -157,7 +158,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides05.html) [...](lessons/lesson05.html)	
 
-#### *Week 6 (Feb. 21 - Feb 25): Indigenous Cartographies and Colonialism I*
+#### *Week 6 (Feb. 21 - Feb 23): Indigenous Cartographies and Colonialism I*
 
 > Explore the historical record of mapping Indigenous lands until the early 20th century with a geographical focus in the United States.
 
@@ -182,7 +183,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides06.html) [...](lessons/lesson06.html)	
 
-#### *Week 7 (Feb. 28 - Mar. 4): Indigenous Cartographies and Colonialism II* \[ TURN IN ASSIGNMENT \#2 \]  
+#### *Week 7 (Feb. 28 - Mar. 2): Indigenous Cartographies and Colonialism II* \[ TURN IN ASSIGNMENT \#2 \]  
 
 > Explore the contemporary mapping of indigenous lands as a legacy of colonial activity with a geographical focus in the United States. Possible guest speaker from Seminole or Miccosukee Tribe (or field trip).
 
@@ -205,7 +206,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 	
 > [slide deck](slides/slides07.html) [...](lessons/lesson07.html)	
 
-#### *Week 8 (Mar. 7 - Mar. 11): Creating Maps*   [ MIDTERM  EXAM ]
+#### *Week 8 (Mar. 7 - Mar. 9): Creating Maps*   [ MIDTERM  EXAM ]
 
 > Midterm exam and a practical introduction to creating online maps using ESRI ArcGIS StoryMaps and Knight Labs storymap.js, and to standard tools such as ArcGIS Pro and QGIS for creating printed maps.
 
@@ -216,7 +217,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 #### SPRING BREAK__*  Mar. 14 - Mar. 18
 
-#### *Week 9 (Mar. 21 - Mar. 25): GIS and Indigenous Knowledge*  
+#### *Week 9 (Mar. 21 - Mar. 23): GIS and Indigenous Knowledge*  
 
 > Identify differences between ontological models used in GIS and Indigenous ways of knowing and how these differences limit the translation of Indigenous knowledge into GIS based cartography. 
 
@@ -239,7 +240,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides09.html) [...](lessons/lesson09.html)	
 
-#### *Week 10 (Mar. 28 - Apr. 1): Contemporary Indigenous Cartography*  \[ TURN IN ASSIGNMENT \#3 \]  
+#### *Week 10 (Mar. 28 - 30): Contemporary Indigenous Cartography*  \[ TURN IN ASSIGNMENT \#3 \]  
 
 > Explore contemporary Indigenous use of maps and GIS in the contexts of North American Tribes and Indigenous groups in Latin America, Africa, and South East Asia. During this week time will be reserved for student presentations. 
 
@@ -265,7 +266,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides10.html) [...](lessons/lesson10.html)	
 
-#### *Week 11 (Apr. 4 - Apr. 8): Participatory Mapping, Community-Based Mapping, and Indigenous Mapping*  
+#### *Week 11 (Apr. 4 - Apr. 6): Participatory Mapping, Community-Based Mapping, and Indigenous Mapping*  
 
 > Introduce the practice of participatory mapping that is widespread in the development sector and the academic sector and how this practice can be applied in the context of Indigenous groups. 
 
@@ -292,7 +293,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides11.html) [...](lessons/lesson11.html)	
 
-#### *Week 12 (Apr. 11 - Apr. 15): Counter Mapping and Land Occupancy Mapping*  
+#### *Week 12 (Apr. 11 - Apr. 13): Counter Mapping and Land Occupancy Mapping*  
 
 > Explore how mapmakers have tested whether "The master's tools can be used to bring down the master's house"
 
@@ -315,7 +316,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides12.html) [...](lessons/lesson12.html)	
 
-#### *Week 13 (Apr. 18 - Apr. 22): Indigenous mapping and Natural Resource Management*  
+#### *Week 13 (Apr. 18 - Apr. 20): Indigenous mapping and Natural Resource Management*  
 
 > Explore how Indigenous groups have articulated rights over natural resources through the use of maps or have lost territories due to natural resource mapping and claims. Possible field trip to Miccosukee Tribe Water Management Group. 
 
@@ -335,7 +336,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides13.html) [...](lessons/lesson13.html)	
 
-#### *Week 14 (Apr. 25 - Apr. 29): Indigenous Mapping and Conservation* \[ TURN IN FINAL PROJECT \]  
+#### *Week 14 (Apr. 25 - Apr. 27): Indigenous Mapping and Conservation* \[ TURN IN FINAL PROJECT \]  
 
 > Introduce how conservation efforts from global to local cross paths with Indigenous groups and Indigenous rights through mapping efforts. 
 
