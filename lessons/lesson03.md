@@ -70,6 +70,7 @@ Lesson 3
    -   next week kislak center - where is it.
    -   more books on hold, to get ideas about maps and mapping
    -   questions on assignment - transition to more research (seek data)
+      -   assignment by email
    -   more on ArcGIS Online/groups/sharing
 2. Review and revision of ideas
    -   indigineity
