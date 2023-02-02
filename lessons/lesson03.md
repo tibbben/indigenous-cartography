@@ -63,11 +63,49 @@ Lesson 3
    -   Data management advice
       -   folder organization  
       -   naming conventions  
-7. Mapping an Empire (Edney)
+
+*__Class 2__*  
+
+1. Housekeeping
+   -   next week kislak center - where is it.
+   -   more books on hold, to get ideas about maps and mapping
+   -   questions on assignment - transition to more research (seek data)
+   -   more on ArcGIS Online/groups/sharing
+2. Review and revision of ideas
+   -   indigineity
+      -   quick group exercise to add some more to the notes
+      -   make sure to include
+         -   noble vs savage
+         -   ghosting
+         -   cyclical vs linear time
+         -   time always related to place
+         -   maps without inscription (peyote songs for example)
+         -   sacred geography - pilgrimage - stories
+   -   geography
+      -   learn by travel (Strabo)
+      -   maps as stories
+   -   maps
+      -   immutable mobiles (or not)
+      -   periphery -> core
+      -   participatory/informants
+      -   non-visual maps
+         -   songs, stories
+         -   language
+         -   knowledge systems ... geography as mother discipline
+   -   keywords (for the common notes)
+      -   graticule
+      -   cartouche
+      -   cadastral mapping
+      -   triangulation
+      -   metes and bounds
+      -   gazetteer
+      -   atlas
+3. Mapping an Empire (Edney)
    -   the context of map development in India -> cartographies of the indigenous
    -   philosophical pillars for the chapter?
       -   map as truth, increasingly accurate, devoid of creativity
-      -   long historical context - connections to Ptolemy and Strabo
+      -   map as an idea before it is inscribed
+      -   long historical context - connections to Ptolemy and Strabo, Pliny
       -   map places home culture at center of universe (indigenous or not)
       -   sources are varied and made to fit together
       -   empty spaces on map
@@ -83,7 +121,6 @@ Lesson 3
       -   adventure
       -   needed financing
          -    priority always to cadastral mapping
-8. Keywords (for the common notes)
-   -   graticule
-   -   cartouche
-   -   cadastral mapping
+4. Individual exercise
+   -   
+
