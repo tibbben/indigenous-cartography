@@ -126,7 +126,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 -   Part II. Land, Articles 13-19 from ILO. (1989). *C169 - Indigenous and Tribal Peoples Convention.* 1989.  Geneva. [Online Access](https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:12100:0::NO::P12100_ILO_CODE:C169#A13).
 -   Articles, 12, 13, 25-30 from UN. (2007). *Declaration on the Rights of Indigenous Peoples.*  New York: United Nations. [Online Access](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N06/512/07/PDF/N0651207.pdf?OpenElement).
--   Selections from Rose, Carol M. (1985). "Possession as the Origin of Property." University of Chicago Law Review, 52. 
+-   Rose, Carol M. (1985). "Possession as the Origin of Property." University of Chicago Law Review, 52. <a href="https://doi.org/10.2307/1599571">https://doi.org/10.2307/1599571</a>.
 -   Fox, Jeff (1998). “Mapping the Commons: The Social Context of Spatial Information Technologies.” *Common Property Resource Digest* 45 (1998): 1–4.
 
 > Suggested Reading:

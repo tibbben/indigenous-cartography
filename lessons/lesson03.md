@@ -82,6 +82,9 @@ Lesson 3
          -   time always related to place
          -   maps without inscription (peyote songs for example)
          -   sacred geography - pilgrimage - stories
+         -   relationality
+         -   cosmology
+         -   centrality
    -   geography
       -   learn by travel (Strabo)
       -   maps as stories
@@ -122,6 +125,4 @@ Lesson 3
       -   adventure
       -   needed financing
          -    priority always to cadastral mapping
-4. Individual exercise
-   -   
 
