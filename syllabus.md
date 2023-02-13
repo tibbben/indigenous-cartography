@@ -73,7 +73,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 #### *Week 2 (Jan. 24 - Jan. 26): Ancestral Cartographies* 
 
-> On ancestral Indigenous cartographic practice outside of the context of anglophile/western geography.  
+> On ancestral Indigenous cartographic practice outside of the context of anglophile/western geography. This week will include the first ArcGIS Online session to introduce some map making tools. 
 
 -   Ancestral Indigenous mapping practice
 -   Oral traditions and Indigenous geography
@@ -139,7 +139,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 #### *Week 5 (Feb. 14 - Feb. 16): Indigenous Cartographies and Conquest* 
 
-> Explore historical record of Indigenous participation in cartographic practice in the conquest of the New World.  This week will include a visit to the University of Miami Lowe Art Museum to engage with primary materials.
+> Explore historical record of Indigenous participation in cartographic practice in the conquest of the New World.  This week will include a second ArcGIS online session to further engage with the map making process.
 
 -   Maps made for the Spanish viceroyalty
 -   Maps made for local property claims and dispute resolution
@@ -148,11 +148,11 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 -   Selections from Hidalgo, Alex. (2019). *Trail of Footprints: A History of Indigenous Maps from Viceregal Mexico*. Austin: University of Texas Press.
 -   Selections from Mundy, Barbara E. (1996). *The Mapping of New Spain*. Chicago: University of Chicago Press.
--   Latour, Bruno. (1987). "Centers of Calculation (Chapter 6)" in <i>Science in Action: How to Follow Scientists and Engineers Through Society</i>. Cambridge MA: Harvard University Press. pp 215 - 257.
 
 > Suggested Reading:
 
 -   Guaman Poma, Phelipe. (1615). *Nueva coronica y buen gobierno*. Retrieved from http://www.kb.dk/permalink/2006/poma/titlepage/es/text/?open=id3083608 
+-   Latour, Bruno. (1987). "Centers of Calculation (Chapter 6)" in <i>Science in Action: How to Follow Scientists and Engineers Through Society</i>. Cambridge MA: Harvard University Press. pp 215 - 257.
 
 > Assignment \#2: TBD
 
@@ -160,7 +160,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 #### *Week 6 (Feb. 21 - Feb 23): Indigenous Cartographies and Colonialism I*
 
-> Explore the historical record of mapping Indigenous lands until the early 20th century with a geographical focus in the United States.
+> Explore the historical record of mapping Indigenous lands until the early 20th century with a geographical focus in the United States. This week will (likely) include a second visit to the University of Miami Libraries Special Collections.
 
 -   Maps made for colonists
 -   Maps made for explorers
@@ -318,7 +318,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 #### *Week 13 (Apr. 18 - Apr. 20): Indigenous mapping and Natural Resource Management*  
 
-> Explore how Indigenous groups have articulated rights over natural resources through the use of maps or have lost territories due to natural resource mapping and claims. Possible field trip to Miccosukee Tribe Water Management Group. 
+> Explore how Indigenous groups have articulated rights over natural resources through the use of maps or have lost territories due to natural resource mapping and claims. 
 
 -   Rights to nature
 -   Informed consent
@@ -338,7 +338,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 #### *Week 14 (Apr. 25 - Apr. 27): Indigenous Mapping and Conservation* \[ TURN IN FINAL PROJECT \]  
 
-> Introduce how conservation efforts from global to local cross paths with Indigenous groups and Indigenous rights through mapping efforts. 
+> Introduce how conservation efforts from global to local cross paths with Indigenous groups and Indigenous rights through mapping efforts. Possible field trip to Miccosukee Tribe Water Management Group. 
 
 -   'Shared' interests
 -   BINGOs
