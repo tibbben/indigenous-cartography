@@ -23,8 +23,10 @@ Lesson 5
    -   where did the information the painters used come from?? Multiple sources, both indigenous and Spanish
    -   indigenous cartography was also 'science of princes' where the cartographers were part of a "select club"
       -   sometimes multiple authors, both indigenous and Spanish
-      -   included lots of field work, surveying
-   PROMPT: choose on map from this chapter and summarize its purpose and hybrid nature
+      -   included lots of field work, surveying  
+
+>   PROMPT: choose one map from this chapter and summarize its purpose and hybrid nature
+
 2. Mundy Notes
    -   pre-hispanic community mapping in central Mexico
    -   elite ... poet-kings
@@ -32,7 +34,7 @@ Lesson 5
    -   symbology, naming, icons [legibility to audience] -- toponyms, logographic rendering of names
    -   community vs town -- tribe -- relationships and social organization
 
-"My aim here is not a reconstruction of how these communities were structured or operated from day to day, but rather an exegesis of how they represented themselves in maps: how did they envision community and territory? Such conceptions play a crucial role in shaping the native maps of the relaciones geographicas." p 106
+> "My aim here is not a reconstruction of how these communities were structured or operated from day to day, but rather an exegesis of how they represented themselves in maps: how did they envision community and territory? Such conceptions play a crucial role in shaping the native maps of the relaciones geographicas." p 106
 
    -   two kinds of community maps:
       -   establishment of community, history and ruling lineage [context!]
@@ -42,10 +44,13 @@ Lesson 5
    -   what is a written record of a boundary? [as compared to what is a map?]
    -   walking boundaries as a ritual shared by communities
 
-"From the colonial period up until modern times, indigenous communities are known to have presented cartographic histories to higher authorities to solve boundary disputes with neighbors, and it seems likely that even earlier they may have had the same purpose--to prove one community's claim to territory" p 111
+> "From the colonial period up until modern times, indigenous communities are known to have presented cartographic histories to higher authorities to solve boundary disputes with neighbors, and it seems likely that even earlier they may have had the same purpose--to prove one community's claim to territory" p 111
 
-   PROMPT: Find one quote in Mundy's chapter that speaks to you. Write one succinct paragraph that explains why you think this particular idea is important for the topics already covered in this class.
+>   PROMPT: Find one quote in Mundy's chapter that speaks to you. Write one succinct paragraph that explains why you think this particular idea is important for the topics already covered in this class.
 
+3. Immutable Mobiles  
+   -   1787 L'Astrolabe captained by Lapérouse explores east Pacific in a place known as 'Segalien' - sent by King Louis XVI with two ships, instruments, clocks, people, to make maps ... open frontiers of business ...
+   -   local people drew maps in sand and then notebooks - native informants
+   -   information goes back to center from periphery, then extractive cycle starts again, and information is improved
+   -   clock as one of most influential scientific instruments
 
-Write to Arthur
-   -   can I have them come back on their own time to look at the maps?
