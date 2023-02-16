@@ -20,7 +20,14 @@ There will be reading assignments for each class as per the schedule below; read
 Identify a Tribe or Indigenous group that you are interested in. In a short justification for your choice (of no less than 500 words and no more than 1000 words) give a brief introduction to the tribe or Indigenous group that includes notes on their historical and contemporary experience of their geography, beliefs or ways of knowing, lifestyle or livelihood, political practices, and anything else considered important. Include a reflection on your positionality as a student writing about the tribe or Indigenous group. What interests you about this particular group? Do you have previous knowledge? Do you have connections? What is the purpose of your choice? Is there some particular aspect that you would like to learn more about? Are there any primary or secondary sources you are interested in? All sources of information should be identified in a bibliography (not included in the word count).
 
 ### Prompt for Assignment #2 (due week 7)
-With the Tribe or Indigenous group identified in Assignment #1 research their history from the perspective of maps and map making. Almost every indigenous group will have either been mapped by others, may have directly participated in cartographic enterprises, or may be actively engaged with creating and using maps for governance or other purposes. References from the syllabus for this course can be used as secondary sources; at least two references not on the syllabus to either primary or secondary sources must be cited. Present your research in a written paper between a minimum of 1000 and a maximum of 1500 words, references not included. 
+With the Tribe or Indigenous group identified in Assignment #1 research their history from the perspective of maps and map making. Almost every indigenous group will have either been mapped by others, may have directly participated in cartographic enterprises, or may be actively engaged with creating and using maps for governance or other purposes. Find maps that are related to themes you identified in your first essay; then see if you can find data for those maps. References from the syllabus for this course can be used as secondary sources; at least two references to either primary or secondary sources not on the syllabus must be cited. Present your research in a written paper between a minimum of 1000 and a maximum of 1500 words, references not included. Your essay will be evaluated based on the following:  
+
+- Show evidence that you engaged with your two outside written sources (not websites).  
+- Show evidence that you searched for maps related to your themes of interest (include map images properly cited).  
+- Show evidence that you searched for data underlying the maps you found (keywords used and websites searched). This can be in the form of an arcGIS online map or documentation of lack of data.
+- Make connections in your essay to one or more themes we have discussed in class.  
+- Practice the APA 7th style of inline citation and listed references for: written sources, maps, data.  
+- Begin to develop a story centered on maps and map making.  
 
 ### Prompt for Assignment #3 (due week 10)
 Using the materials from assignments #1 and #2 create a ten-minute (maximum) presentation about the identified tribe or Indigenous group. The presentation format will be in Microsoft PowerPoint, Apple KeyNote, or a similar slide-based presentation platform. The presentation will draw from the material in Assignment #1 and in addition will use at least three references from any of the assigned readings in the syllabus (for projects focused on contemporary Indigenous cartography reading ahead will be allowed with instructor approval).
@@ -160,7 +167,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 #### *Week 6 (Feb. 21 - Feb 23): Indigenous Cartographies and Colonialism I*
 
-> Explore the historical record of mapping Indigenous lands until the early 20th century with a geographical focus in the United States. This week will (likely) include a second visit to the University of Miami Libraries Special Collections.
+> Explore the historical record of mapping Indigenous lands until the early 20th century with a geographical focus in the United States. This week includes a second visit to the University of Miami Libraries Special Collections.
 
 -   Maps made for colonists
 -   Maps made for explorers
@@ -185,7 +192,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 #### *Week 7 (Feb. 28 - Mar. 2): Indigenous Cartographies and Colonialism II* \[ TURN IN ASSIGNMENT \#2 \]  
 
-> Explore the contemporary mapping of indigenous lands as a legacy of colonial activity with a geographical focus in the United States. Possible guest speaker from Seminole or Miccosukee Tribe (or field trip).
+> Explore the contemporary mapping of indigenous lands as a legacy of colonial activity with a geographical focus in the United States.
 
 -   Meaning in maps and storytelling with maps
 -   Synergy between Indigenous and Cartesian knowledge systems
