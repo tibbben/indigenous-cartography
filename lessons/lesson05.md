@@ -5,9 +5,24 @@ Lesson 5
 
 *__Class 1__*  
 
-0. Notes on property??
+1. Housekeeping
+   -   Next week in Kislak again
+   -   I will reduce readings .... wait for the announcement
+   -   Assignemnt #2
+      -   Updated on syllabus
+      -   Due March 3rd at midnight
+      -   Context - maps do not exist outside of context
+      -   Data - start trying to find data > get it into ArcGIS online
+      -   Data management - name stuff well, keep notes of where you got it ...
 
-1. Hidalgo Notes
+2. Notes on property??
+   -   Notes on ILO 169 Articles 13-19 1989 - Indigenous and Tribal Peoples Convention (International Labor Organization)
+      -   access (and exclusion)
+      -   natural resources (use, management, conservation)
+      -   sub-surface tenure regimes, rights of consultation (FPIC) - article 15
+      -   no removal/relocation, exception under FPIC, compensation
+
+3. Hidalgo Notes
    -   fluency in both cultures
    -   painters as special
    -   approval and certification of maps
@@ -27,7 +42,7 @@ Lesson 5
 
 >   PROMPT: choose one map from this chapter and summarize its purpose and hybrid nature
 
-2. Mundy Notes
+4. Mundy Notes
    -   pre-hispanic community mapping in central Mexico
    -   elite ... poet-kings
    -   sometimes "unremarkable" ...
@@ -48,7 +63,7 @@ Lesson 5
 
 >   PROMPT: Find one quote in Mundy's chapter that speaks to you. Write one succinct paragraph that explains why you think this particular idea is important for the topics already covered in this class.
 
-3. Immutable Mobiles  
+5. Immutable Mobiles  
    -   1787 L'Astrolabe captained by Lapérouse explores east Pacific in a place known as 'Segalien' - sent by King Louis XVI with two ships, instruments, clocks, people, to make maps ... open frontiers of business ...
    -   local people drew maps in sand and then notebooks - native informants
    -   information goes back to center from periphery, then extractive cycle starts again, and information is improved

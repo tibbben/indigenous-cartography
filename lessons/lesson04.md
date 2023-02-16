@@ -40,47 +40,59 @@ Lesson 4
    -   necessary?? better system?
 
 
-Notes on ILO 169 Articles 13-19
-- (exclusive/partial) occupancy, possession, ownership
-- (a responsibility to identify) territory, land [notification from Rose]
-- access (and exclusion)
-- national legal system ... (common law, civil law)
-- natural resources (use, management, conservation)
-- sub-surface tenure regimes, rights of consultation (FPIC) - article 15
-- no removal/relocation, exception under FPIC, compensation
-- transmission (traditional) of rights in land, alienation
-- technical assistance from governments
+3. Notes on ILO 169 Articles 13-19
+   -   (exclusive/partial) occupancy, possession, ownership
+   -   (a responsibility to identify) territory, land [notification from Rose]
+   -   access (and exclusion)
+   -   national legal system ... (common law, civil law)
+   -   natural resources (use, management, conservation)
+   -   sub-surface tenure regimes, rights of consultation (FPIC) - article 15
+   -   no removal/relocation, exception under FPIC, compensation
+   -   transmission (traditional) of rights in land, alienation
+   -   technical assistance from governments
 
+4. UNDRIP
+   -   traditionally owned and occupied or acquired [coastal seas]
+   -   legal protection and respect for traditional tenure systems
+   -   participation
+   -   compensation (land or money)
+   -   conservation of resources [no hazardous waste sites] and health
+   -   Article 19,32
+   -   show 
 
-UNDRIP
-- traditionally owned and occupied or acquired [coastal seas]
-- legal protection and respect for traditional tenure systems
-- participation
-- compensation (land or money)
-- conservation of resources [no hazardous waste sites] and health
-- Article 19,32
-- show 
+> for -- with  
+> private -- common  
 
-for -- with 
-private -- common
+5. Keywords: 
+   -   claim (4)
+   -   communication (notification)
+   -   possession (6)
+   -   title(s) (3)
+   -   transfer (alienation)
+   -   labor
+   -   property
+   -   ownership (3)
+   -   agrarian
+   -   labor, 
+   -   text (literal) (2)
+   -   notice (2)
+   -   land
+   -   occupancy
+   -   rights
+   -   tenure systems (regimes)
+   -   markings
 
+6. Kislak Thing: 
+   -   animal encyclopedia (Historia Naturae)
+   -   17th C Wind Rose Chart
+   -   1794 map of the northwest (Alaska)
+   -   Zines made by students
+   -   anemographic chart
+   -   French world map
+   -   Tolcayuca
+   -   de las Casas book
 
-Keywords: claim (4), communication (notification), possession (6), title(s) (3), transfer (alienation), labor, property, ownership (3), agrarian, labor, text (literal) (2), notice (2), land, occupancy, rights, tenure systems (regimes), markings
-
-Kislak Thing: 
-- animal encyclopedia (Historia Naturae)
-- 17th C Wind Rose Chart
-- 1794 map of the northwest (Alaska)
-- Zines made by students
-- anemographic chart
-- French world map
-- Tolcayuca
-- de las Casas book
-
-email on PPGIS?
-CLAG announcement (Joel Correia)
-
-*__Class 1__*  
-
+> email on PPGIS?  
+> CLAG announcement (Joel Correia)  
 
 
