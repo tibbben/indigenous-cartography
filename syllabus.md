@@ -196,7 +196,6 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 -   Meaning in maps and storytelling with maps
 -   Synergy between Indigenous and Cartesian knowledge systems
--   Seminole/or and Miccosukee use of GIS
 
 > Required Reading:
 
