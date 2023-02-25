@@ -76,7 +76,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 -   Cameron, Emilie. (2008). Indigenous spectrality and the politics of postcolonial ghost stories. *Cultural Geographies*, 15(3), 383-393. doi: [10.1177/1474474008091334](https://doi.org/10.1177/1474474008091334)
 -   [https://www.landgrabu.org](https://www.landgrabu.org)
 
-> [slide deck](slides/slides01.html) [...](lessons/lesson01.html)
+> [slide deck](slides/slides01.html) [...](lessons/lessons.html?l=01)
 
 #### *Week 2 (Jan. 24 - Jan. 26): Ancestral Cartographies* 
 
@@ -97,7 +97,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 -   Short, John Rennie. (2009). *Cartographic Encounters: Indigenous Peoples and the Exploration of the New World*: Reaktion Books Ltd. [Online Access](https://miami-primo.hosted.exlibrisgroup.com/permalink/f/k23viv/01UOML_ALMA51287020460002976)  
 -   Chapter 1: "An Overview of Native American Maps" (pp 7-36) in Warhus, Mark (1997). *Another America: Native American Maps and the History of Our Land*. New York: St. Martin’s Press.
 
-> [slide deck](slides/slides02.html) [...](lessons/lesson02.html)
+> [slide deck](slides/slides02.html) [...](lessons/lessons.html?l=02)
 
 #### *Week 3 (Jan. 31 - Feb. 2): "Western" Cartesian Cartography and Imperialism* \[ TURN IN ASSIGNMENT \#1 \]  
 
@@ -119,7 +119,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 -   Crosthwait, H. L. (1924). The Survey of India. *Journal of the Royal Society of Arts*, 72(3716), 194-206. 
 -   Sobel, Dava. (1995). *Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time.* New York: Walker and Company.
 
-> [slide deck](slides/slides03.html) [...](lessons/lesson03.html)	
+> [slide deck](slides/slides03.html) [...](lessons/lessons.html?l=03)	
 
 #### *Week 4 (Feb. 7 - Feb. 9): Indigenous Rights, Property, and Maps*  
 
@@ -142,7 +142,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 -   Neate, Graeme. (1999, 25-27 October). *Mapping Landscapes of the Mind: A Cadastral Conundrum in the Native Title Era.* Paper presented at the UN-FIG Conference on Land Tenure and Cadastral Infrastructures for Sustainable Development, Melbourne, Australia. http://af.fig.net/resources/proceedings/1999/figun/sessions/session5/neate.pdf
 -   MacPherson, C.B. (Ed.). (2011 [1978]). *Property: Mainstream and Critical Positions.* Toronto: Toronto University Press.
 
-> [slide deck](slides/slides04.html) [...](lessons/lesson04.html)	
+> [slide deck](slides/slides04.html) [...](lessons/lessons.html?l=04)	
 
 #### *Week 5 (Feb. 14 - Feb. 16): Indigenous Cartographies and Conquest* 
 
@@ -163,7 +163,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Assignment \#2: TBD
 
-> [slide deck](slides/slides05.html) [...](lessons/lesson05.html)	
+> [slide deck](slides/slides05.html) [...](lessons/lessons.html?l=05)	
 
 #### *Week 6 (Feb. 21 - Feb 23): Indigenous Cartographies and Colonialism I*
 
@@ -188,7 +188,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Midterm Project Assignment: TBD
 
-> [slide deck](slides/slides06.html) [...](lessons/lesson06.html)	
+> [slide deck](slides/slides06.html) [...](lessons/lessons.html?l=06)	
 
 #### *Week 7 (Feb. 28 - Mar. 2): Indigenous Cartographies and Colonialism II* \[ TURN IN ASSIGNMENT \#2 \]  
 
@@ -200,18 +200,18 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Required Reading:
 
--   Chapter 3: Preserving tribal culture and history (pp 25-48) in Taylor, Anne, Gadsen, David, Kerski, Joseph J., & Guglielmo, Heather (Eds.). (2012). *Tribal GIS: Supporting Native American Decision Making*. Redlands, CA: ESRI Press.
 -   Sutton, Imre. (2014). Indian Country: Three Geographic Views. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 323-328). North Charleston: CreateSpace Independent Publishing Platform.
--   Kuwanwisiwma, Leight J., & Fergesun, T. J. (2014). Hopitutskwa: The Meaning and Power of Maps. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia (Vol. 3, pp. 132-147). North Charleston: CreateSpace Independent Publishing Platform.
--   Chapter 6: Contemporary Native American Maps (pp 208-229) in Warhus, Mark. (1997). *Another America: Native American Maps and the History of Our Land.* New York: St. Martin’s Press.
+-   Kuwanwisiwma, Leight J., & Fergesun, T. J. (2014). Hopitutskwa: The Meaning and Power of Maps. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 132-147). North Charleston: CreateSpace Independent Publishing Platform.  
+-   Jamail, D. (2022). Lyla June Johnston (Dine [Navajo], Tsetsêhéstâhese [Cheyenne]) - Trust (Chapter 5), in Jamail, D. and Rushworth S. (eds.) *We are the Middle of Forever: Indigenous Voices from Turtle Island on the Changing Earth.* The New Press, New York. pp 61-72.
 
 > Suggested Reading:
 
 -   Brody, Hugh. (2021). What were we mapping? From the Inuit Land Use and Occupancy Project to the Southern Kalahari. In U. Dieckmann (Ed.), *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa* (pp. 69-92). Bielefeld: transcript Verlag.
+-   Chapter 6: Contemporary Native American Maps (pp 208-229) in Warhus, Mark. (1997). *Another America: Native American Maps and the History of Our Land.* New York: St. Martin’s Press.
 -   Chapter 1 from Bryan, Joe, & Wood, Denis. (2015). *Weaponizing Maps*: Guilford Press.
 
 	
-> [slide deck](slides/slides07.html) [...](lessons/lesson07.html)	
+> [slide deck](slides/slides07.html) [...](lessons/lessons.html?l=07)	
 
 #### *Week 8 (Mar. 7 - Mar. 9): Creating Maps*   [ MIDTERM  EXAM ]
 
@@ -220,7 +220,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 -   Create online story maps
 -   Create printed maps
 
-> [slide deck](slides/slides08.html) [...](lessons/lesson08.html)	
+> [slide deck](slides/slides08.html) [...](lessons/lessons.html?l=08)	
 
 #### SPRING BREAK__*  Mar. 14 - Mar. 18
 
@@ -245,7 +245,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Assignment \#3: TBD
 
-> [slide deck](slides/slides09.html) [...](lessons/lesson09.html)	
+> [slide deck](slides/slides09.html) [...](lessons/lessons.html?l=09)	
 
 #### *Week 10 (Mar. 28 - 30): Contemporary Indigenous Cartography*  \[ TURN IN ASSIGNMENT \#3 \]  
 
@@ -270,8 +270,9 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 -   Orlove, Benjamin S. (1991). Mapping Reeds and Reading Maps: The Politics of Representation in Lake Titicaca. *American Ethnologist*, 18(1), 3-38. 
 -   Alcorn, Janis B. “Keys to Unleash Mapping’s Good Magic.” *PLA Notes* 39.2 (2000): 10–13.
 -   Norris, Timothy. (2017). Public Participation GIS, Participatory GIS and Participatory Mapping. In B. Warf (Ed.), *Oxford Bibliographies in Geography.* New York: Oxford University Press.
+-   Chapter 3: Preserving tribal culture and history (pp 25-48) in Taylor, Anne, Gadsen, David, Kerski, Joseph J., & Guglielmo, Heather (Eds.). (2012). *Tribal GIS: Supporting Native American Decision Making*. Redlands, CA: ESRI Press.
 
-> [slide deck](slides/slides10.html) [...](lessons/lesson10.html)	
+> [slide deck](slides/slides10.html) [...](lessons/lessons.html?l=10)	
 
 #### *Week 11 (Apr. 4 - Apr. 6): Participatory Mapping, Community-Based Mapping, and Indigenous Mapping*  
 
@@ -298,7 +299,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 -  TBD
 
-> [slide deck](slides/slides11.html) [...](lessons/lesson11.html)	
+> [slide deck](slides/slides11.html) [...](lessons/lessons.html?l=11)	
 
 #### *Week 12 (Apr. 11 - Apr. 13): Counter Mapping and Land Occupancy Mapping*  
 
@@ -321,7 +322,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Assignment \#5: TBD
 
-> [slide deck](slides/slides12.html) [...](lessons/lesson12.html)	
+> [slide deck](slides/slides12.html) [...](lessons/lessons.html?l=12)	
 
 #### *Week 13 (Apr. 18 - Apr. 20): Indigenous mapping and Natural Resource Management*  
 
@@ -341,7 +342,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 -   Smith, Richard. (2005). Can David and Goliath Have a Happy Marriage? The Machiguenga People and the Camisea Gas Project in the Peruvian Amazon. In J. P. Brosius, A. L. Tsing & C. Zerner (Eds.), *Communities and Conservation* (pp. 231-256). Lanham MD: Alta Mira Press.
 -   Stocks, Anthony. (2003). Mapping Dreams in Nicaragua's Bosawas Reserve. *Human Organization*, 62(4), 344-356. 
 
-> [slide deck](slides/slides13.html) [...](lessons/lesson13.html)	
+> [slide deck](slides/slides13.html) [...](lessons/lessons.html?l=13)	
 
 #### *Week 14 (Apr. 25 - Apr. 27): Indigenous Mapping and Conservation* \[ TURN IN FINAL PROJECT \]  
 
@@ -361,7 +362,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 -   Edney, Matthew H. (2012). Field/Map. In K. Nielsen, M. Harbsmeier & C. Ries (Eds.), *Scientists and Scholars in the Field* (pp. 431-456). Århus: Aarhus University Press.
 
-> [slide deck](slides/slides14.html) [...](lessons/lesson14.html)	
+> [slide deck](slides/slides14.html) [...](lessons/lessons.html?l=14)	
 
 #### *Final Exam:* \[ Tuesday May 9th @ 2:00 pm \]
 
