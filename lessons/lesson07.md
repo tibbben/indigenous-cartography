@@ -6,6 +6,7 @@ Lesson 7
 1. Housekeeping
    -   questions, concerns
    -   Trail of Tears and photoshop ... come back to this
+   -   context, context, context ....
 
 2. Hopitutskwa
    -   As example of the second assignment ... ?
@@ -30,12 +31,33 @@ Lesson 7
          -   national forest lands, monuments, and parks
 
 3. Three Indian Country Maps
+   -   political geography - tribes, local citizens, municipalities, counties, states, and so on
    -   Indian country as an evolving definition (perhaps indigenous territory)
       -   place like Oklahoma
       -   reservations and their surroundings (counties that contain reservations)
       -   something more relational
-   -   
+   -   Reservation are held in trust by federal govt (not owned by tribe) - a unique form of property - creates confusion
+      -   think back to property - private common, state, open
+      -   look up PL 280 - 1953 (evolving some jurisdiction to states and other local)
+      -   inherent sovereignty of tribal government/nation/organization
+      -   but, authority of tribe over non-indians
+   -   Trust vs Fee lands - creates confusion over jurisdictions
+      -   ability to sell land to non-indians (Fee simple ownership) -> happened a lot, then difficult to get back
+      -   Trust land can be owned by either an organization (tribe) or a person (tribal member)
+      -   different right and responsibilities between trust and fee
+      -   loo up "fee trust indian"
+   -   contradictions ...
+      -   hunting rights in tribal/conservation areas ...
+      -   settled with monetary compensation, what does that imply? relinquishment of title?
+      -   sacred places ...
+   -   extra-territorial (extra-legal?)
+      -   Indian Country as beyond boundaries
+      -   criminal jurisdiction within reservations (non-indians) and outside of reservations (indian)
+      -   taxes ... zoning ... elections ... gambling ... water ... environmental regulation
+      -   autonomy vs sovereignty, political vs territorial sovereignty
+
    -   US based analysis, how does this apply to places you are thinking about?
+   -   Is the USA leading change or behind other global efforts?
 
 4. Trail of Tears
    -   Pauls, E. Prine (2022). Trail of Tears. Encyclopedia Britannica. https://www.britannica.com/event/Trail-of-Tears
