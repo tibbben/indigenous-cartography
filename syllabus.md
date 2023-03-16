@@ -201,7 +201,6 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 -   Sutton, Imre. (2014). Indian Country: Three Geographic Views. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 323-328). North Charleston: CreateSpace Independent Publishing Platform.
 -   Kuwanwisiwma, Leight J., & Fergesun, T. J. (2014). Hopitutskwa: The Meaning and Power of Maps. In D. G. Cole & I. Sutton (Eds.), *Mapping native America: cartographic interactions between indigenous peoples, government, and academia* (Vol. 3, pp. 132-147). North Charleston: CreateSpace Independent Publishing Platform.  
--   Jamail, D. (2022). Lyla June Johnston (Dine [Navajo], Tsetsêhéstâhese [Cheyenne]) - Trust (Chapter 5), in Jamail, D. and Rushworth S. (eds.) *We are the Middle of Forever: Indigenous Voices from Turtle Island on the Changing Earth.* The New Press, New York. pp 61-72.
 
 > Suggested Reading:
 
@@ -214,10 +213,13 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 #### *Week 8 (Mar. 7 - Mar. 9): Creating Maps*   [ MIDTERM  EXAM ]
 
-> Midterm exam and a practical introduction to creating online maps using ESRI ArcGIS StoryMaps and Knight Labs storymap.js, and to standard tools such as ArcGIS Pro and QGIS for creating printed maps.
+> Return to broad concepts of Indigeneity and Midterm exam.
 
--   Create online story maps
--   Create printed maps
+> Light Reading
+
+-   Jamail, D. (2022). Lyla June Johnston (Dine [Navajo], Tsetsêhéstâhese [Cheyenne]) - Trust (Chapter 5), in Jamail, D. and Rushworth S. (eds.) *We are the Middle of Forever: Indigenous Voices from Turtle Island on the Changing Earth.* The New Press, New York. pp 61-72.
+-   Singh, M. (2023). It’s Time to Rethink the Idea of the “Indigenous.” *The New Yorker Magazine* (February 27th, 2023 Issue). [https://www.newyorker.com/magazine/2023/02/27/its-time-to-rethink-the-idea-of-the-indigenous](https://www.newyorker.com/magazine/2023/02/27/its-time-to-rethink-the-idea-of-the-indigenous) last retrieved March 8 2023.
+
 
 > [slide deck](slides/slides08.html) [...](lessons/lessons.html?l=08)	
 
@@ -233,14 +235,14 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Required Reading
 
--   Rundstrom, Robert A. (1991). Mapping, Postmodernism, Indigenous People And The Changing Direction Of North American Cartography. *Cartographica*, 28(2), 1-12. doi: 10.3138/5j46-51t2-7m42-316g
--   Mackenzie, Kierin, Pirker, John, & Reitsma, Femke. (2020). Towards a SpatioTemporal Data Model for Traditional Ecological Knowledge/Indigenous Knowledge. *Cartographica*, 55(1), 29-41. doi: 10.3138/cart-2017-0027
+-   Rundstrom, Robert A. (1991). Mapping, Postmodernism, Indigenous People And The Changing Direction Of North American Cartography. *Cartographica*, 28(2), 1-12. doi: [https://doi.org/10.3138/5j46-51t2-7m42-316g](10.3138/5j46-51t2-7m42-316g)
+-   Mackenzie, Kierin, Pirker, John, & Reitsma, Femke. (2020). Towards a SpatioTemporal Data Model for Traditional Ecological Knowledge/Indigenous Knowledge. *Cartographica*, 55(1), 29-41. doi: [https://doi.org/10.3138/cart-2017-0027](10.3138/cart-2017-0027)
 -   Kerski, Joseph J. (2006). Earth Vision: Understanding the Earth with Geographic Information Systems. *Winds of Change*, 21(3), 12-15. 
 
 > Suggested Reading:
 
--   Hirt, Irène. (2012). Mapping Dreams/Dreaming Maps: Bridging Indigenous and Western Geographical Knowledge. *Cartographica: The International Journal for Geographic Information and Geovisualization*, 47(2), 105-120. doi: 10.3138/carto.47.2.105
--   Roth, Robin. “The Challenges of Mapping Complex Indigenous Spatiality: From Abstract Space to Dwelling Space.” *Cultural Geographies* 16.2 (2009): 207–227.
+-   Hirt, Irène. (2012). Mapping Dreams/Dreaming Maps: Bridging Indigenous and Western Geographical Knowledge. *Cartographica: The International Journal for Geographic Information and Geovisualization*, 47(2), 105-120. doi: [https://doi.org/10.3138/carto.47.2.105](10.3138/carto.47.2.105)
+-   Roth, Robin. “The Challenges of Mapping Complex Indigenous Spatiality: From Abstract Space to Dwelling Space.” *Cultural Geographies* 16.2 (2009): 207–227. [https://www.jstor.org/stable/44251527](https://www.jstor.org/stable/44251527)
 
 > Assignment \#3: TBD
 
