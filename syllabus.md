@@ -246,7 +246,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Assignment \#3: TBD
 
-> [slide deck](slides/slides09.html) [...](lessons/lessons.html?l=09)	
+> [slide deck](slides/slides08.html) [...](lessons/lessons.html?l=08)	
 
 #### *Week 10 (Mar. 28 - 30): Contemporary Indigenous Cartography*  \[ TURN IN ASSIGNMENT \#3 \]  
 
