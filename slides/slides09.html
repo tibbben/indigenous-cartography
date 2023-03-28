@@ -4,29 +4,334 @@
         <link rel="stylesheet" href="../common/css/reveal.css">
         <link rel="stylesheet" href="../common/css/white.css">
         <link rel="stylesheet" href="../common/css/overrides.css">
-	    <script src="../common/java/print.js"></script>
-        <title>Urban Cartography - 09</title>
+        <script src="../common/js/print.js"></script>
+        <title>Indigenous Cartography - 09</title>
         <meta charset="UTF-8">
     </head>
     <body>
         <div class="reveal">
             <div class="slides">
 
-               <section data-background-image="">
-                    <div style="position: absolute; left: 340px; top: 125px; font-size: 150%; line-height: 100%;"><strong>Urban Cartography</strong></div>
-                    <div style="position: absolute; left: 750px; top: 285px; font-size: 90%">SOA <script>var today = new Date();document.write(today.getFullYear());</script></div>
-                    <div style="position: absolute; left: 460px; top: 390px; font-size: 50%; text-align: left">Dr. Timothy Norris <a href="mailto:tnorris@miami.edu" style="color: #222 !important; text-decoration: underline;">tnorris@miami.edu</a><br>Christopher Mader - <a href="mailto:cmader@med.miami.edu" style="color: #222 !important; text-decoration: underline;">cmader@med.miami.edu</a></div>
+                <section data-background-image="../common/assets/images/cusco-test-bkgrd.jpeg" data-background-size="fill" data-background-color="#000">
+
+                  <div style="position: absolute; right: 80px; top: 0px; font-size: 120%; line-height: 100%; color: #bbb !important; text-align: right;"><strong>Indigenous Cartography and<br>Cartography of the Indigenous</strong></div>
+
+                  <div style="position: absolute; left: 0px; top:540px; font-size: 90%; color: #bbb !important;text-align: left;"><span style="font-size: 80%;"><script>var today = new Date();document.write(today.toISOString().slice(0,10));</script></span><br><span style="font-size: 0.5em; line-height: 0.2em important; display: block;"><br>image credit: Smithsonian (2016). <i>The Great Inka Road: Engineering and Empire</i>.<br>[<a href="https://americanindian.si.edu/inkaroad/inkauniverse/cusco/cusco-experience.html" style="color: #ddf;">online exhibit</a>]</span></div>
+                  
+                  <div style="position: absolute; right: 200px; top: 680px; font-size: 50%; text-align: left; color: #bbb !important; line-height: 145%">Dr. Timothy Norris : <a href="mailto:tnorris@miami.edu" style="color: #bbb !important; text-decoration: underline;">tnorris@miami.edu</a></div>
+                  
+                  <div style="position: absolute; left: 0px; top: 550px; font-size: 40%; text-align: right; color: #555; width: 280px;"></div>
+
                 </section>
-				
-<!-- ########################################################################################################################## -->
-<!-- ##               end of session two - some extra slides                                                                 ## -->				
-<!-- ########################################################################################################################## -->	
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">Data and Maps</div>
+
+                        <div class="template-content">
+                          <ul>
+                            <li>What is a Geographic Information System (GIS)?</li>
+                            <li style="margin-top: 42px;">What is a Data Model?</li>
+                          </ul>
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section>
+                  <div style="font-weight: 600; margin-bottom: 42px;">Defining GIS</div>
+                  <ul style="width: 60%; font-size: 80%; margin-bottom: 42px;">
+                    <li class="fragment">Geographic Information System
+                      <ul style="font-size: 80%;">
+                        <li>collections of tools, data, hardware, and people
+                      </ul>
+                    <li style="margin-top: 23px;" class="fragment">Geographic Information Science
+                      <ul style="font-size: 80%;">
+                        <li>systematic inquiry into research questions about the relationship between GIS and socio-natural systems
+                      </ul>
+                    <li style="margin-top: 23px;" class="fragment">Geographic Information conStruction
+                      <ul style="font-size: 80%;">
+                        <li>tool building for storage, collection or analysis of geospatial data
+                      </ul>
+                  </ul>
+                  <p class="template-citation" style="font-size: 0.5em !important; max-width: 75%;">Wright, D. J., Goodchild, M. F., & Proctor, J. D. (1997). Demystifying the Persistent Ambiguity of GIS as ‘Tool’ versus ‘Science’. <i>Annals of the Association of American Geographers</i>, 87(2), 346-362. doi:<a href ="http://doi.org/10.1111/0004-5608.872057">10.1111/0004-5608.872057</a></p>
+                </section>
+
+                <section>
+                  <div style="display: inline-block;">
+                    <div style="float: right; width: 45%;">
+                      <img src="../common/assets/images/layers.jpg" style="max-width: 70%; margin-right: 100px;">
+                    </div>
+                    <div style="float: left; width: 40%; margin: 130px auto auto 100px; font-size: 75%;">
+                      GIS as a collection of datasets that are organized in a systemic way (as layers).<br><br>The system of organization can be digital (software) or analog (drawn on paper).<br><br>The actual process of organization is done with a purpose by human beings.
+                    </div>
+                  </div>
+                  <div class="template-citation" style="display: inline-block;">adapted from: <a href="https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html">https://saylordotorg.github.io/text_essentials-of-geographic-information-systems/index.html</a></div>
+                </section>
+
+                <section>
+                  <div style="font-weight: 600; margin-bottom: 42px;">GIS Possibilities ...</div>
+                  <ul style="width: 20%; font-size: 80%; margin-top: 42px;">
+                    <li class="fragment">Critical GIS</li>
+                    <li style="margin-top: 23px;" class="fragment">Qualitative GIS</li>
+                    <li style="margin-top: 23px;" class="fragment">Feminist GIS</li>
+                    <li style="margin-top: 23px;" class="fragment">Indigenous GIS</li>
+                  </ul>
+                  <p class="template-citation"></p>
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">Models</div>
+
+                        <div class="template-content">
+                          Are <strong>Tools</strong> used to represent something (usually a real thing) at a level of abstraction that is useful for some purpose
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section data-background-image="../common/assets/images/LEGOHurricaneIrmafromGPMData.jpg" data-background-size="fill" data-background-color="#000">
+                  <div style="position: absolute; left: 0px; top:600px; font-size: 90%; color: #bbb !important;text-align: left;"><span style="font-size: 0.5em; line-height: 0.2em important; display: block; color: #bbb"><br>image credit: NASA (2019). <i>2019 Hurricane Season Resources</i>. NASA Global Precipitation Management <br>[<a href="https://gpm.nasa.gov/applications/hurricanes-2019" style="color: #ddf;">blog</a>]  <a href="https://gpm.nasa.gov/applications/hurricanes-2019" style="color: #ddf;">https://gpm.nasa.gov/applications/hurricanes-2019</a>, last accessed 2023-03-20.</span></div>
+                </section>
+
+                <section data-background-image="../common/assets/images/hurricaneapps1.jpg" data-background-size="fill" data-background-color="#000">
+                  <div style="position: absolute; left: 100px; top:560px; font-size: 90%; color: #bbb !important;text-align: left;"><span style="font-size: 0.5em; line-height: 0.2em important; display: block; color: #eee"><br>image credit: NASA (2019). <i>2019 Hurricane Season Resources</i>. NASA Global Precipitation Management <br>[<a href="https://gpm.nasa.gov/applications/hurricanes-2019" style="color: #ddf;">blog</a>]  <a href="https://gpm.nasa.gov/applications/hurricanes-2019" style="color: #ddf;">https://gpm.nasa.gov/applications/hurricanes-2019</a>, last accessed 2023-03-20.</span></div>
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">Data Models</div>
+
+                        <div class="template-content">
+                          <div style="position: absolute; left: 0px; top: -100px">
+                            Relational<br>
+                            <img src="../common/assets/images/relational.jpg" style="max-width: 550px;">
+                          </div>
+                          <div style="position: absolute; right: 0px; top: -100px">
+                            Hierarchical<br>
+                            <img src="../common/assets/images/hierarchical.jpg" style="max-width: 550px">
+                          </div>
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section data-background-image="../common/assets/images/phylogenetic_tree.jpg" data-background-size="fill" data-background-color="#fff"></section>
+
+                <section>
+                  <img src="../common/assets/images/relational.jpg" style="max-width: 900px;">
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">Key Elements in Relational Model</div>
+
+                        <div class="template-content">
+                          <ul>
+                            <li>Entities</li>
+                            <li style="margin-top: 42px;">Relationships</li>
+                            <li style="margin-top: 42px;">Attributes (aka "data")</li>
+                          </ul>
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">Conceptual Model with entities and relationships</div>
+
+                        <div class="template-content">
+                          <img src="../common/assets/images/conceptual_simple.jpg" style="max-width: 900px;">
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">Relationship Cardinality</div>
+
+                        <div class="template-content">
+                          <img src="../common/assets/images/cardinality.jpg" style="max-height: 400px;">
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">example with attributes</div>
+
+                        <div class="template-content">
+                          <img src="../common/assets/images/cars.jpg">
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">Mapping, Postmodernism, Indigenous People ...</div>
+
+                        <div class="template-content" style="font-size: 80%;">
+                          <p>"Perhaps I am naive, but I am optimistic that -- despite history -- maps can be constructed on the basis of mutual courtesy and respect." (p 5)</p>
+                          <p class="fragment">"Like many, they [Inuit informants for colonial map making processes] were unwitting conspirators to their own disenfranchisement." (p 9) But now "... they made a conscious and concerted decision to engage with the enfranchised culture on its own terms, turning its technology and politicas to their own purposes." (p 10)?</p>
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                        Rundstrom, Robert A. (1991). Mapping, Postmodernism, Indigenous People And The Changing Direction Of North American Cartography. <i>Cartographica</i>, 28(2), 1-12. doi: <a href="https://doi.org/10.3138/5j46-51t2-7m42-316g">https://doi.org/10.3138/5j46-51t2-7m42-316g</a>.
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">SpatioTemporal Data Model for TEK ...</div>
+
+                        <div class="template-content" style="font-size: 80%;">
+                          <p>"The model for dealing with this complexity over the last century has been what Scott (1998) refers to as "Authoritarian High Modernism," that is, making the landscape and the people legible to outsiders. This has huge dangers, as to be legible is to be more easily controllable. Not to be legible is to be invisible. Mapping is a two edged sword." (p 30)</p>
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                        Mackenzie, Kierin, Pirker, John, & Reitsma, Femke. (2020). Towards a SpatioTemporal Data Model for Traditional Ecological Knowledge/Indigenous Knowledge. <i>Cartographica</i>, 55(1), 29-41. doi: <a href="https://doi.org/10.3138/cart-2017-0027">https://doi.org/10.3138/cart-2017-0027</a>.<br>
+                        <span style="margin-top: 7px; display: inline-block;">Scott, James C. (1998). <i>Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed</i>. New Haven: Yale University Press.</span>
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">SpatioTemporal Data Model for TEK ...</div>
+
+                        <div class="template-content" style="font-size: 80%;">
+                          <ul style="line-height: 140%;">
+                            <li>Cyclical and multi-cyclical time</li>
+                            <li>Proper time and proper space</li>
+                            <li>Fluid and dynamic spatiotemporal boundaries</li>
+                            <li>Support for narratives</li>
+                            <li>Contingency-based timing</li>
+                            <li>Privacy safeguards</li>
+                          </ul>
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                        Mackenzie, Kierin, Pirker, John, & Reitsma, Femke. (2020). Towards a SpatioTemporal Data Model for Traditional Ecological Knowledge/Indigenous Knowledge. <i>Cartographica</i>, 55(1), 29-41. doi: <a href="https://doi.org/10.3138/cart-2017-0027">https://doi.org/10.3138/cart-2017-0027</a>.
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
+
+                <section data-transition="fade">
+                    <div class="template-container">
+                      <div class="template-header"></div>
+                      <div class="template-content-containter">
+
+                        <div class="template-title">SpatioTemporal Data Model for TEK ...</div>
+
+                        <div class="template-content" style="font-size: 80%;">
+                          "The spatiotemporal motif offers a <i>higher level abstraction</i> when dealing with Indigenous spatiotemporal data." (emphasis mine) (p 39)
+                        </div>
+
+                      </div>
+
+                      <div class="template-citation">
+                        Mackenzie, Kierin, Pirker, John, & Reitsma, Femke. (2020). Towards a SpatioTemporal Data Model for Traditional Ecological Knowledge/Indigenous Knowledge. <i>Cartographica</i>, 55(1), 29-41. doi: <a href="https://doi.org/10.3138/cart-2017-0027">https://doi.org/10.3138/cart-2017-0027</a>.
+                      </div>
+                      
+                      <div class="template-footer"></div>
+                    </div>
+                </section>
 
             </div>
         </div>
-        <script src="../common/java/reveal.js"></script>
-	    <script src="../common/java/notes.js"></script>
-	    <script src="../common/java/head.min.js"></script>
+        <script src="../common/js/reveal.js"></script>
+	    <script src="../common/js/notes.js"></script>
+	    <script src="../common/js/head.min.js"></script>
         <script>
             Reveal.initialize({
                 width: 1366, height: 768, margin: 0.05,
@@ -56,8 +361,8 @@
 					},
 				},
                 dependencies: [
-                    { src: '../common/java/Chart.min.js' },
-                    { src: '../common/java/csv2chart.js' }
+                    { src: '../common/js/Chart.min.js' },
+                    { src: '../common/js/csv2chart.js' }
                 ] 
             });
         </script>
