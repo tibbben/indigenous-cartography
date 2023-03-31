@@ -285,15 +285,15 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Required Reading:
 
--   Chambers, Robert. (2006). Participatory Mapping and Geographic Information Systems: Whose Map? Who is Empowered and Who Dis-empowered? Who Gains and Who Loses? *The Electronic Journal on Information Systems in Developing Countries*, 25(2), 1-11.  
--   "Making of the Maya Atlas" (pp) in Toledo Maya Cultural Council, Toledo Alcaldes Association. (1997). *The Maya Atlas - The Struggle to Preserve Maya Lands in Southern Belize.* Berkeley: North Atlantic Books.
--   Cancel, Juan and Paul Backhouse (2017). "Archaeometry: Where GIS Meets the People" in *We Come for Good; Archaeology and Tribal Historic Preservation at the Seminole Tribe of Florida*, Backhouse, P., Weisman, B. & Rosebrough, MB. (eds). Gainesville: University Press of Florida.  
+-   Chambers, Robert. (2006). Participatory Mapping and Geographic Information Systems: Whose Map? Who is Empowered and Who Dis-empowered? Who Gains and Who Loses? *The Electronic Journal on Information Systems in Developing Countries*, 25(2), 1-11. [https://doi.org/10.1002/j.1681-4835.2006.tb00163.x](https://doi.org/10.1002/j.1681-4835.2006.tb00163.x)
+-   Freire, Paulo. (1970). *Pedagogy of the Oppressed.* New York: Continuum. [selections]
 
 > Suggested Reading:
 
+-   Cancel, Juan and Paul Backhouse (2017). "Archaeometry: Where GIS Meets the People" in *We Come for Good; Archaeology and Tribal Historic Preservation at the Seminole Tribe of Florida*, Backhouse, P., Weisman, B. & Rosebrough, MB. (eds). Gainesville: University Press of Florida. 
 -   Chapin, M., Lamb, Z., & Threlkeld, B. (2005). Mapping indigenous lands. *Annual Review of Anthropology*, 34, 619-638.
 -   Flavelle, Alix. (1994). Community-Based Mapping in Southeast Asia. *Cultural Survival Quarterly*, 18(4). 
--   Freire, Paulo. (1970). *Pedagogy of the Oppressed.* New York: Continuum.
+-   "Making of the Maya Atlas" (pp) in Toledo Maya Cultural Council, Toledo Alcaldes Association. (1997). *The Maya Atlas - The Struggle to Preserve Maya Lands in Southern Belize.* Berkeley: North Atlantic Books. 
 -   Norris, Timothy. (2018). Participatory Mapping. In J. Deupi (Ed.), Antillean Visions; or, Maps and the Making of the Caribbean. Miami: Lowe Art Museum.
 
 > Assignment \#4: 
