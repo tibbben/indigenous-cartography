@@ -312,12 +312,12 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Required Reading:
 
--   Peluso, Nancy Lee. (1995). Whose woods are these? Counter-mapping forest territories in Kalimantan, Indonesia. Antipode, 27(4), 383-406. 
--   Selections from (TBD) Brody, Hugh. (1982). *Maps and Dreams.* New York: Pantheon Books.
--   Tobias, Kerry. (2000). *Chief Kerry's Moose: A guidebook to land use and occupancy mapping, research design and data collection.* Vancouver, BC: Union of BC Chiefs and Ecotrust Canada. [Open Access PDF](http://archive.ecotrust.org/publications/Chief_Kerrys_Moose.pdf)
+-   Peluso, Nancy Lee. (1995). Whose woods are these? Counter-mapping forest territories in Kalimantan, Indonesia. Antipode, 27(4), 383-406. [https://doi.org/10.1111/j.1467-8330.1995.tb00286.x](https://doi.org/10.1111/j.1467-8330.1995.tb00286.x)
+-   Chaps 1-2 (p 1-11), 4 (p 19-32), and Summary (p 58-61). Tobias, Kerry. (2000). *Chief Kerry's Moose: A guidebook to land use and occupancy mapping, research design and data collection.* Vancouver, BC: Union of BC Chiefs and Ecotrust Canada. [Open Access PDF](http://archive.ecotrust.org/publications/Chief_Kerrys_Moose.pdf)
 
 > Suggested Reading:
 
+-   Brody, Hugh. (1982). *Maps and Dreams.* New York: Pantheon Books.
 -   Bryan, Joe, & Wood, Denis. (2015). *Weaponizing Maps*. Guilford Press.
 -   Wainwright, Joel, & Bryan, Joe. (2009). Cartography, territory, property: postcolonial reflections on indigenous counter-mapping in Nicaragua and Belize. *Cultural Geographies* 16(2), 153-178. 
 
