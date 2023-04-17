@@ -298,7 +298,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Assignment \#4: 
 
--  TBD
+-  Story map assignment (see above) due on Monday May 8th at 11:59 pm.
 
 > [slide deck](slides/slides11.html) [...](lessons/lessons.html?l=11)	
 
@@ -321,8 +321,6 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 -   Bryan, Joe, & Wood, Denis. (2015). *Weaponizing Maps*. Guilford Press.
 -   Wainwright, Joel, & Bryan, Joe. (2009). Cartography, territory, property: postcolonial reflections on indigenous counter-mapping in Nicaragua and Belize. *Cultural Geographies* 16(2), 153-178. 
 
-> Assignment \#5: TBD
-
 > [slide deck](slides/slides12.html) [...](lessons/lessons.html?l=12)	
 
 #### *Week 13 (Apr. 18 - Apr. 20): Indigenous mapping and Natural Resource Management*  
@@ -332,20 +330,40 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 -   Rights to nature
 -   Informed consent
 
+> Required Movie:
+
+-   Berlinger, J. (2009). *Crude* [Film, YouTube]. Entendre Films, Radical Media, Red Envelope Entertainment, Third Eye Motion Picture Company. https://www.youtube.com/watch?v=BvrZRvgwBS8.
+
 > Required Reading:
 
--   Radcliffe, Sarah A. (2020). Geography and indigeneity III: Co-articulation of colonialism and capitalism in indigeneity’s economies. Progress in Human Geography, 44(2), 374-388. doi: 10.1177/0309132519827387
--   Norris, Timothy. (2014). Bridging the Great Divide: state, civil society, and 'participatory' conservation mapping in a resource extraction zone. *Applied Geography*, 54(2014), 262-274. doi: http://dx.doi.org/10.1016/j.apgeog.2014.05.016
--   Sletto, Bjorn, Barry, Deborah, Bryan, Joe, Hale, Charles, & Torrado, Marla. (2011). Social Mapping and the Struggles for Local Rights to Territory and Resources: *The Latin American Experience*. Washington D.C.: Rights and Resources
+-   Lorenzo Pellegrini, Murat Arsel, Marti Orta-Martinez, & Carlos F Mena. (2020). International investment agreements, human rights, and environmental justice: The Texaco/Chevron case from the Ecuadorian Amazon. *Journal of International Economic Law*, 23(2), 455–468. [https://doi.org/10.1093/jiel/jgaa016](https://doi.org/10.1093/jiel/jgaa016)
+-   Kauffman & Martin, P. L. (2017). Can Rights of Nature Make Development More Sustainable? Why Some Ecuadorian Lawsuits Succeed, and Others Fail. *World Development*, 92, 130–142. [https://doi.org/10.1016/j.worlddev.2016.11.017](https://doi.org/10.1016/j.worlddev.2016.11.017)
+-   Norris, Timothy. (2014). Bridging the Great Divide: state, civil society, and 'participatory' conservation mapping in a resource extraction zone. *Applied Geography*, 54(2014), 262-274. doi: [http://dx.doi.org/10.1016/j.apgeog.2014.05.016](http://dx.doi.org/10.1016/j.apgeog.2014.05.016)
+
+> Required reaction paper:
+
+> In preparation for the class session, students will write a single-spaced reaction paper (300 to 400 words) providing a critical analysis of the Texaco case and the other assigned readings. The following questions may be taken into consideration to guide the writing:  
+
+> [Useful site for guidance on reaction papers.](https://www.hunter.cuny.edu/rwc/handouts/the-writing-process-1/invention/Writing-a-Response-or-Reaction-Paper)  
+
+-   What is your critique of these scholarly articles (write about at least one), the documentary, and/or the case? 
+-   What are the parties involved in the litigation?
+-   What is the main argument?
+-   What about Ecuadorian law and International Organizations such as the United Nations? What are the narratives in this regard?
+-   Are there any discrepancies between the law and the practice? Is consent important?
+-   If you could redo these complaints and help these Indigenous communities, what would you do? Do you think the creation of maps would have helped at all? Or what is your opinion?
+-   What are some of the legal key terms that were used in the documentary?
 
 > Suggested Reading:
 
+-   Sletto, Bjorn, Barry, Deborah, Bryan, Joe, Hale, Charles, & Torrado, Marla. (2011). Social Mapping and the Struggles for Local Rights to Territory and Resources: *The Latin American Experience*. Washington D.C.: Rights and Resources
+-   Radcliffe, Sarah A. (2020). Geography and indigeneity III: Co-articulation of colonialism and capitalism in indigeneity’s economies. Progress in Human Geography, 44(2), 374-388. doi: [10.1177/0309132519827387](https://doi.org/10.1177/0309132519827387)
 -   Smith, Richard. (2005). Can David and Goliath Have a Happy Marriage? The Machiguenga People and the Camisea Gas Project in the Peruvian Amazon. In J. P. Brosius, A. L. Tsing & C. Zerner (Eds.), *Communities and Conservation* (pp. 231-256). Lanham MD: Alta Mira Press.
--   Stocks, Anthony. (2003). Mapping Dreams in Nicaragua's Bosawas Reserve. *Human Organization*, 62(4), 344-356. 
+-   Stocks, Anthony. (2003). Mapping Dreams in Nicaragua's Bosawas Reserve. *Human Organization*, 62(4), 344-356. [https://www.jstor.org/stable/44127815](https://www.jstor.org/stable/44127815) 
 
 > [slide deck](slides/slides13.html) [...](lessons/lessons.html?l=13)	
 
-#### *Week 14 (Apr. 25 - Apr. 27): Indigenous Mapping and Conservation* \[ TURN IN FINAL PROJECT \]  
+#### *Week 14 (Apr. 25 - Apr. 27): Indigenous Mapping and Conservation* 
 
 > Introduce how conservation efforts from global to local cross paths with Indigenous groups and Indigenous rights through mapping efforts. Possible field trip to Miccosukee Tribe Water Management Group. 
 
@@ -365,6 +383,8 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > [slide deck](slides/slides14.html) [...](lessons/lessons.html?l=14)	
 
-#### *Final Exam:* \[ Tuesday May 9th @ 2:00 pm \]
+#### *Final Project Due:* \[ TURN IN FINAL PROJECT Monday May 8th at 11:59 pm \]  
+
+#### *Final Exam:* \[ Tuesday May 9th @ 2:00 pm \] 
 
 ---
