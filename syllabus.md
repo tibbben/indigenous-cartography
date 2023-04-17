@@ -332,7 +332,7 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Required Movie:
 
--   Berlinger, J. (2009). *Crude* [Film, YouTube]. Entendre Films, Radical Media, Red Envelope Entertainment, Third Eye Motion Picture Company. https://www.youtube.com/watch?v=BvrZRvgwBS8.
+-   Berlinger, J. (2009). *Crude* [Film, YouTube]. Entendre Films, Radical Media, Red Envelope Entertainment, Third Eye Motion Picture Company. [https://www.youtube.com/watch?v=BvrZRvgwBS8](https://www.youtube.com/watch?v=BvrZRvgwBS8).
 
 > Required Reading:
 
