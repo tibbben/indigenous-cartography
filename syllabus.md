@@ -373,12 +373,15 @@ All topics/dates/assignments are subject to revision/change based on instructor 
 
 > Required Reading:
 
--   Rocheleau, Dianne. (2005). Maps as Power Tools: locating communities in space or situating people and ecologies in place. In J. P. Brosius, A. L. Tsing & C. Zerner (Eds.), *Communities and Conservation* (pp. 327-362). Lanham MD: Alta Mira Press.
--   Sundberg, J. (1998). NGO landscapes in the Maya biosphere reserve, Guatemala. *The Geographical Review*, 88 (3), 388-390. 
--   Goldman, Mara. (2021). Mapping multiple in Maasailand: Ontological openings for knowing and managing nature otherwise. In U. Dieckmann (Ed.), *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa* (pp. 193-222). Bielefeld: transcript Verlag.
+-   Chapter 1 "1500-1800: Florida a Land of Opportunity" and Epilogue from Missall, J. and M. Missall (2020). *The Seminole Struggle: A History of Americas Longest Indian War*. Pineapple Press, Palm Beach FL.  
+-   Cancel, J. and P. Backhouse (2017). "Archaeometry: Where GIS Meets the People" in *We Come for Good; Archaeology and Tribal Historic Preservation at the Seminole Tribe of Florida*, Backhouse, P., Weisman, B. & Rosebrough, MB. (eds). Gainesville: University Press of Florida. P 206-220.  
+-   Mahoney, M. (2017). "*Tarakkvlkv* (Land of Palms): Bridging the Gap between Archaeology and Tribal Perspectives" in *We Come for Good; Archaeology and Tribal Historic Preservation at the Seminole Tribe of Florida*, Backhouse, P., Weisman, B. & Rosebrough, MB. (eds). Gainesville: University Press of Florida. p 179-205.  
+-   Rocheleau, Dianne. (2005). Maps as Power Tools: locating communities in space or situating people and ecologies in place. In J. P. Brosius, A. L. Tsing & C. Zerner (Eds.), *Communities and Conservation* (pp. 327-362). Lanham MD: Alta Mira Press.  
 
 > Suggested Reading:
 
+-   Sundberg, J. (1998). NGO landscapes in the Maya biosphere reserve, Guatemala. *The Geographical Review*, 88 (3), 388-390. 
+-   Goldman, Mara. (2021). Mapping multiple in Maasailand: Ontological openings for knowing and managing nature otherwise. In U. Dieckmann (Ed.), *Mapping the Unmappable? Cartographic Explorations with Indigenous Peoples in Africa* (pp. 193-222). Bielefeld: transcript Verlag.
 -   Edney, Matthew H. (2012). Field/Map. In K. Nielsen, M. Harbsmeier & C. Ries (Eds.), *Scientists and Scholars in the Field* (pp. 431-456). Århus: Aarhus University Press.
 
 > [slide deck](slides/slides14.html) [...](lessons/lessons.html?l=14)	
