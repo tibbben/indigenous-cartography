@@ -41,12 +41,31 @@ Example project ideas:
 - Research natural resource conflict between Indigenous Group / Tribe and role of maps in the conflict  
 - Research cartographic technique for making maps inclusive of indigenous ways of knowing  
 
+Your work will be evaluated on the following criteria:
+
+- You have a clear introduction (who, what, where, when, and the beginnings of why) supported by at least one map (where you are working)
+- You build upon the work you presented in assignment #3 in some way
+- You include at least one reference from the required readings on the course syllabus, connecting your work to an idea in the class (can be more than one)
+- You have at least one external academic reference not in the required readings on the class syllabus (can be from the suggested readings). Articles, books, or book chapters only.
+- You have at least on external reference from popular media (movies, newspapers, websites, other story maps, social media, etc.)
+- You tell a map story with several maps in a series that show different data layers (interpret this to mean, make on section of your presentation a sidecar, slideshow, or map tour)
+- You have at least one data layer that you created by hand: point(s), line(s), or polygon(s).
+- Your map legends are as clear as possible (what is shown on the map). A person should be able to understand the map without you being there.
+- You use APA inline style citations with an APA formatted bibliography at the end of your storymap. This is both for text based citations (ideas or quotes) and for any maps you include as images.
+- You give photo credits for all images that are not maps or charts. Note that even if you do not have permission to use the image, include the credit (where you got it from).
+- You have a clear conclusion that somehow connects the work presented to the present day situation of the indigenous group. Exceptions will be made for 'loose' connections if little information is available for present day descendants of historical indigenous peoples.
+- You present your story in ten minutes (maximum) and leave time for questions.
+
 ### Expectations for Graduate Level Students  
 All students enrolled in the 600 level course (masters and PhD students) are expected to turn in graduate level work. In other words, work submitted by graduate students will be held to a higher set of criteria for evaluation and grading than that for the work of the undergraduate students. Also, graduate students have two additional obligations to be completed as part of the course. First, each graduate student will be asked to facilitate one class discussion based on a topic chosen from the syllabus. Second, as a part of the class project, each graduate student is expected to explicitly connect the class project to an ongoing/planned research project through additional contextual material for the essay (assignment #2), the presentation (assignment #3), and the final project (assignment #4).
 
-### Midterm and Final Exam
+### Midterm Exam
 
-Both the midterm and the final exam will include short answer and essay sections. The midterm will be based on reading and other assignments up until week 7 and the final will be based on reading and other assignments from week 8 to week 14 (not comprehensive).
+The midterm will include short answer and essay sections. The midterm will be based on reading and other assignments up until week 7.
+
+### Final Exam
+
+The time set aside for the final exam will be used for student presentations of the final projects. There will a short reaction essay due the same day as the final project which will constitute part of the grade for the final (TBD).
 
 ---
 
