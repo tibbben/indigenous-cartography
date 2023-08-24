@@ -21,8 +21,10 @@ Lesson 1
        -   built through the four class projects  
        -   strong beginning will make the end more rewarding  
        -   choose your tribe or indigenous group early, not your life work, just one exploration  
+       -   example storymap: https://storymaps.arcgis.com/collections/4a3a81d1e8a44da1bc28a0f3df0f679f
+           -   others from 2023 spring??
    -   readings are required before class (this week for Thursday)  
-       -   (maybe) one sentence summaries of required readings sent to me before Thursday's class (can be sent earlier)  
+       -   (maybe) one sentence summaries of required readings sent to me before Thursday's class (can be sent earlier)
        -   take notes on readings somewhere (data management, research skills, reference manager)
        -   reading list is a guide, and entry point; be critical  
        -   you are expected to read outside the required reading (either from suggested or things you find)  
